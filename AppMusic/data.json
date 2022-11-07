@@ -1,0 +1,3305 @@
+
+{   
+    "link": "http://api.mp3.zing.vn/api/streaming/audio/Z6WZD78I/320",
+    "err": 0,
+    "msg": "Success",
+    "data": {
+        "song": [
+            {
+                "id": "Z6WZD78I",
+                "name": "Sao Cũng Được",
+                "title": "Sao Cũng Được",
+                "code": "LnxmykZdsSNNdNstHtbHLnykChNbZESvv",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B66FB8I",
+                "artists": [
+                    {
+                        "name": "Thành Đạt",
+                        "link": "/nghe-si/Sao-Cung-Duoc-Thanh-Dat"
+                    }
+                ],
+                "artists_names": "Thành Đạt",
+                "performer": "Thành Đạt",
+                "type": "audio",
+                "link": "/bai-hat/Sao-Cung-Duoc-Thanh-Dat/Z6WZD78I.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/2/2/0/a/220a93aacbd9e3230b356a331a5a1f27.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/a/6/5/5/a65573e6905dc4f29f59c49ea04866cf.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "duration": 319,
+                "total": 20030,
+                "rank_num": "",
+                "rank_status": "stand",
+                "artist": {
+                    "id": "IW6BZA76",
+                    "name": "Thành Đạt",
+                    "link": "/nghe-si/Thanh-Dat",
+                    "cover": "//static-zmp3.zmdcdn.me/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/3/7/0/e370a2f50b59de96c97cf5d0e29899bc.jpg"
+                },
+                "position": 1,
+                "order": "01",
+                "album": {
+                    "id": "6B66FB8I",
+                    "link": "/album/Sao-Cung-Duoc-Single-Thanh-Dat/6B66FB8I.html",
+                    "title": "Sao Cũng Được (Single)",
+                    "name": "Sao Cũng Được (Single)",
+                    "isoffical": true,
+                    "artists_names": "Thành Đạt",
+                    "artists": [
+                        {
+                            "name": "Thành Đạt",
+                            "link": "/nghe-si/Thanh-Dat"
+                        }
+                    ],
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/a/6/5/5/a65573e6905dc4f29f59c49ea04866cf.jpg",
+                    "thumbnail_medium": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/a/6/5/5/a65573e6905dc4f29f59c49ea04866cf.jpg"
+                }
+            },
+            {
+                "id": "Z6W9CA9D",
+                "name": "Bài Ngửa",
+                "title": "Bài Ngửa",
+                "code": "knJmtZZdaaVCFbkyHyFnkmTZhXaFkiSbF",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "SB690FB8",
+                "artists": [
+                    {
+                        "name": "Vương Anh Tú",
+                        "link": "/nghe-si/Bai-Ngua-Vuong-Anh-Tu"
+                    }
+                ],
+                "artists_names": "Vương Anh Tú",
+                "performer": "Vương Anh Tú",
+                "type": "audio",
+                "link": "/bai-hat/Bai-Ngua-Vuong-Anh-Tu/Z6W9CA9D.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/9/1/7/c/917c86adb2117b5a0166f85c486cd9bd.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/4/0/d/e/40dee59ca6ea3f25e654c8f94183884c.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "duration": 204,
+                "total": 12525,
+                "rank_num": "",
+                "rank_status": "stand",
+                "artist": {
+                    "id": "IWZ9FE6A",
+                    "name": "Vương Anh Tú",
+                    "link": "/nghe-si/Vuong-Anh-Tu",
+                    "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/1/a/1a34c5cbc6c876cf91ff1653c6d1d5cc_1520561858.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/c/f/bfcf5a819c1bdf76a5a7cb9a780ca721.jpg"
+                },
+                "position": 2,
+                "order": "02",
+                "album": {
+                    "id": "SB690FB8",
+                    "link": "/album/Bai-Ngua-Single-Vuong-Anh-Tu/SB690FB8.html",
+                    "title": "Bài Ngửa (Single)",
+                    "name": "Bài Ngửa (Single)",
+                    "isoffical": true,
+                    "artists_names": "Vương Anh Tú",
+                    "artists": [
+                        {
+                            "name": "Vương Anh Tú",
+                            "link": "/nghe-si/Vuong-Anh-Tu"
+                        }
+                    ],
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/4/0/d/e/40dee59ca6ea3f25e654c8f94183884c.jpg",
+                    "thumbnail_medium": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/4/0/d/e/40dee59ca6ea3f25e654c8f94183884c.jpg"
+                }
+            },
+            {
+                "id": "Z6WOZUCE",
+                "name": "Cưới Hông Chốt Nha",
+                "title": "Cưới Hông Chốt Nha",
+                "code": "ZHcmtkLBNdkFJSXymybHZmyZghaFLiSDF",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B6ZC09D",
+                "artists": [
+                    {
+                        "name": "Út Nhị Mino",
+                        "link": "/nghe-si/Cuoi-Hong-Chot-Nha-Ut-Nhi-Mino-Do-Thanh-Duy-NH4T"
+                    }
+                ],
+                "artists_names": "Út Nhị Mino, Đỗ Thành Duy, NH4T",
+                "performer": "Út Nhị Mino, Đỗ Thành Duy, NH4T",
+                "type": "audio",
+                "link": "/bai-hat/Cuoi-Hong-Chot-Nha-Ut-Nhi-Mino-Do-Thanh-Duy-NH4T/Z6WOZUCE.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/7/a/3/0/7a303fa1ad03d69c0631676ef99c10e4.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/3/5/1/8/351803934294554997dea64d724efd51.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "duration": 256,
+                "total": 11965,
+                "rank_num": "",
+                "rank_status": "stand",
+                "artist": {
+                    "id": "IW76OO9F",
+                    "name": "Út Nhị Mino",
+                    "link": "/nghe-si/Ut-Nhi-Mino",
+                    "cover": "//static-zmp3.zmdcdn.me/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/b/3/c/7b3ca86a36c6e526c020551fd84e1afe.jpg"
+                },
+                "position": 3,
+                "order": "03",
+                "album": {
+                    "id": "6B6ZC09D",
+                    "link": "/album/Cuoi-Hong-Chot-Nha-Single-Ut-Nhi-Mino-Do-Thanh-Duy/6B6ZC09D.html",
+                    "title": "Cưới Hông Chốt Nha (Single)",
+                    "name": "Cưới Hông Chốt Nha (Single)",
+                    "isoffical": true,
+                    "artists_names": "Út Nhị Mino, Đỗ Thành Duy",
+                    "artists": [
+                        {
+                            "name": "Út Nhị Mino",
+                            "link": "/nghe-si/Ut-Nhi-Mino-Do-Thanh-Duy"
+                        }
+                    ],
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/3/5/1/8/351803934294554997dea64d724efd51.jpg",
+                    "thumbnail_medium": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/3/5/1/8/351803934294554997dea64d724efd51.jpg"
+                }
+            },
+            {
+                "id": "Z6I760F9",
+                "name": "Có Chơi Có Chịu",
+                "title": "Có Chơi Có Chịu",
+                "code": "ZGxGykLBhQFRWDRtmyDHLGTkCgavkRlFb",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B60IAF8",
+                "artists": [
+                    {
+                        "name": "Karik",
+                        "link": "/nghe-si/Co-Choi-Co-Chiu-Karik-Only-C"
+                    }
+                ],
+                "artists_names": "Karik, Only C",
+                "performer": "Karik, Only C",
+                "type": "audio",
+                "link": "/bai-hat/Co-Choi-Co-Chiu-Karik-Only-C/Z6I760F9.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/5/a/c/8/5ac87cfe4a90fced2b431babe036c0d6.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/2/8/9/2/2892c3530e93895b6605cea040c749e0.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "duration": 224,
+                "total": 11149,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 4,
+                "order": "04",
+                "album": {
+                    "id": "6B60IAF8",
+                    "link": "/album/Co-Choi-Co-Chiu-Single-Karik-Only-C/6B60IAF8.html",
+                    "title": "Có Chơi Có Chịu (Single)",
+                    "name": "Có Chơi Có Chịu (Single)",
+                    "isoffical": true,
+                    "artists_names": "Karik, Only C",
+                    "artists": [
+                        {
+                            "name": "Karik",
+                            "link": "/nghe-si/Karik-Only-C"
+                        }
+                    ],
+                    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/2/8/9/2/2892c3530e93895b6605cea040c749e0.jpg",
+                    "thumbnail_medium": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/2/8/9/2/2892c3530e93895b6605cea040c749e0.jpg"
+                }
+            },
+            {
+                "id": "ZZFDIEB6",
+                "name": "Tòng Phu",
+                "title": "Tòng Phu",
+                "code": "ZHcmykkdScncCdGymyFmZGtkCCsvZiAFF",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZU0ZW0",
+                "artists": [
+                    {
+                        "name": "Keyo",
+                        "link": "/nghe-si/Tong-Phu-Keyo"
+                    }
+                ],
+                "artists_names": "Keyo",
+                "performer": "Keyo",
+                "type": "audio",
+                "link": "/bai-hat/Tong-Phu-Keyo/ZZFDIEB6.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/f/8/3/6/f836ebba8baf8efb0e42033e1d982d2a.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/f/9/b/df9b187a2b0e565ebe5b6bd60bdef622.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "duration": 295,
+                "total": 11148,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 5,
+                "order": "05"
+            },
+            {
+                "id": "Z6I77FCW",
+                "name": "Kỳ Vọng Sai Lầm",
+                "title": "Kỳ Vọng Sai Lầm",
+                "code": "ZmcmTkZdgQdazkntHtbmLmyZCCsbLizvF",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B60W7F9",
+                "artists": [
+                    {
+                        "name": "Tăng Phúc",
+                        "link": "/nghe-si/Ky-Vong-Sai-Lam-Tang-Phuc-Nguyen-Dinh-Vu-Yuno-Bigboi"
+                    }
+                ],
+                "artists_names": "Tăng Phúc, Nguyễn Đình Vũ, Yuno Bigboi",
+                "performer": "Tăng Phúc, Nguyễn Đình Vũ, Yuno Bigboi",
+                "type": "audio",
+                "link": "/bai-hat/Ky-Vong-Sai-Lam-Tang-Phuc-Nguyen-Dinh-Vu-Yuno-Bigboi/Z6I77FCW.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/4/5/b/2/45b262cb00f3c9c22d7cf85188866478.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/3/4/0/7/3407c71c13a5d4a646a887f5900871de.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "duration": 222,
+                "total": 8810,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 6,
+                "order": "06"
+            },
+            {
+                "id": "Z6WZWIAC",
+                "name": "Ai Rồi Cũng Sẽ Khác",
+                "title": "Ai Rồi Cũng Sẽ Khác",
+                "code": "LHxnykLdaSVGxFcTnTFHLmyZXhsvLizvF",
+                "content_owner": 10115,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "SB669E98",
+                "artists": [
+                    {
+                        "name": "Hà Nhi",
+                        "link": "/nghe-si/Ai-Roi-Cung-Se-Khac-Ha-Nhi"
+                    }
+                ],
+                "artists_names": "Hà Nhi",
+                "performer": "Hà Nhi",
+                "type": "audio",
+                "link": "/bai-hat/Ai-Roi-Cung-Se-Khac-Ha-Nhi/Z6WZWIAC.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/7/0/c/d/70cd3135d48fd3b412dda8f3b6121f5f.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/f/9/c/2/f9c22cde44f9c731c8c8801a37e21e86.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "duration": 273,
+                "total": 8577,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 7,
+                "order": "07"
+            },
+            {
+                "id": "Z6I76897",
+                "name": "Ân Tình Sang Trang",
+                "title": "Ân Tình Sang Trang",
+                "code": "ZHJHtLZdhWdkAsuynyFmLmykhXsvLuzFF",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B60IF66",
+                "artists": [
+                    {
+                        "name": "Châu Khải Phong",
+                        "link": "/nghe-si/An-Tinh-Sang-Trang-Chau-Khai-Phong-ACV"
+                    }
+                ],
+                "artists_names": "Châu Khải Phong, ACV",
+                "performer": "Châu Khải Phong, ACV",
+                "type": "audio",
+                "link": "/bai-hat/An-Tinh-Sang-Trang-Chau-Khai-Phong-ACV/Z6I76897.html#video-clip",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/e/8/e/3/e8e3e85a1f2fffd0f0605bbf335c1cb9.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/4/9/6/f/496fa84f1a008e3fa51668545deb33ca.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "mv_link": "/video-clip/An-Tinh-Sang-Trang-Chau-Khai-Phong-ACV/Z6I76897.html",
+                "duration": 320,
+                "total": 7259,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 8,
+                "order": "08"
+            },
+            {
+                "id": "Z6W9DOAW",
+                "name": "Người Như Anh",
+                "title": "Người Như Anh",
+                "code": "LHJmTkkBsNBJQdGyHyDmZmyLChNFkiAbD",
+                "content_owner": 10115,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B69IZ08",
+                "artists": [
+                    {
+                        "name": "Mai Tiến Dũng",
+                        "link": "/nghe-si/Nguoi-Nhu-Anh-Mai-Tien-Dung"
+                    }
+                ],
+                "artists_names": "Mai Tiến Dũng",
+                "performer": "Mai Tiến Dũng",
+                "type": "audio",
+                "link": "/bai-hat/Nguoi-Nhu-Anh-Mai-Tien-Dung/Z6W9DOAW.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/d/f/9/9/df99fc219774148ef4719acabfd67dd4.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/c/9/e/dc9e0327d6e99d57cdcd54981cb5989d.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "duration": 291,
+                "total": 7101,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 9,
+                "order": "09"
+            },
+            {
+                "id": "ZZFDAZ89",
+                "name": "Waiting For You",
+                "title": "Waiting For You",
+                "code": "LGcntkkBlJldZzptHtFHkGyZggsFLESbF",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZUUWW0",
+                "artists": [
+                    {
+                        "name": "MONO",
+                        "link": "/nghe-si/Waiting-For-You-MONO-Onionn"
+                    }
+                ],
+                "artists_names": "MONO, Onionn",
+                "performer": "MONO, Onionn",
+                "type": "audio",
+                "link": "/bai-hat/Waiting-For-You-MONO-Onionn/ZZFDAZ89.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/2/d/5/6/2d56089f263ed082e281c23928ca3e38.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/e/7/7/2/e772358978fef8a02eefd34f6a4ca6f3.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "duration": 266,
+                "total": 7055,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 10,
+                "order": 10
+            },
+            {
+                "id": "Z6W7OFD9",
+                "name": "Bài này không để đi diễn",
+                "title": "Bài này không để đi diễn",
+                "code": "knxmyLZdsWCEhvWymtFHLHykXCNFLilbF",
+                "content_owner": 10115,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B67C78O",
+                "artists": [
+                    {
+                        "name": "Anh Tú Atus",
+                        "link": "/nghe-si/Bai-nay-khong-de-di-dien-Anh-Tu-Atus"
+                    }
+                ],
+                "artists_names": "Anh Tú Atus",
+                "performer": "Anh Tú Atus",
+                "type": "audio",
+                "link": "/bai-hat/Bai-nay-khong-de-di-dien-Anh-Tu-Atus/Z6W7OFD9.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/1/9/1/9/1919b312b369fe84ece3ff1431aa473c.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/b/2/9/4/b2943abd92e70b71f681972103343a65.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "duration": 179,
+                "total": 5720,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 11,
+                "order": 11
+            },
+            {
+                "id": "Z6WOOB7E",
+                "name": "Ngày Anh Hạnh Phúc Nhất",
+                "title": "Ngày Anh Hạnh Phúc Nhất",
+                "code": "kHxHyZLdNBHCBXCtGtFHkmyZhCsbkilFD",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B6ZBZOB",
+                "artists": [
+                    {
+                        "name": "Lý Tuấn Kiệt",
+                        "link": "/nghe-si/Ngay-Anh-Hanh-Phuc-Nhat-Ly-Tuan-Kiet"
+                    }
+                ],
+                "artists_names": "Lý Tuấn Kiệt",
+                "performer": "Lý Tuấn Kiệt",
+                "type": "audio",
+                "link": "/bai-hat/Ngay-Anh-Hanh-Phuc-Nhat-Ly-Tuan-Kiet/Z6WOOB7E.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/8/8/5/0/8850ccd6624aeeb88ba20df2ba435f5d.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/a/7/6/1a76cf19f63b9392989880afdcaeae61.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "duration": 346,
+                "total": 5232,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 12,
+                "order": 12
+            },
+            {
+                "id": "Z6W7ZIIU",
+                "name": "Cô Đơn Trên Sofa",
+                "title": "Cô Đơn Trên Sofa",
+                "code": "ZmcGyLkdaQszGBhyGtvnZmykgCNbZiAbF",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "SB67CFFA",
+                "artists": [
+                    {
+                        "name": "Hồ Ngọc Hà",
+                        "link": "/nghe-si/Co-Don-Tren-Sofa-Ho-Ngoc-Ha"
+                    }
+                ],
+                "artists_names": "Hồ Ngọc Hà",
+                "performer": "Hồ Ngọc Hà",
+                "type": "audio",
+                "link": "/bai-hat/Co-Don-Tren-Sofa-Ho-Ngoc-Ha/Z6W7ZIIU.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/7/d/b/8/7db8a94827da8cbceee3a9f68d7d52af.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/7/f/1/17f17c49523af7fd7827ce1e2981b412.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "duration": 263,
+                "total": 4871,
+                "rank_num": 2,
+                "rank_status": "up",
+                "position": 13,
+                "order": 13
+            },
+            {
+                "id": "Z6W9D6EZ",
+                "name": "Mah Boo",
+                "title": "Mah Boo",
+                "code": "LGxHtkZBasVRdhQymyvmLHtkCCNFZiSFb",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B69I7OI",
+                "artists": [
+                    {
+                        "name": "Phạm Việt Thắng",
+                        "link": "/nghe-si/Mah-Boo-Pham-Viet-Thang-Tang-Duy-Tan-Masew"
+                    }
+                ],
+                "artists_names": "Phạm Việt Thắng, Tăng Duy Tân, Masew",
+                "performer": "Phạm Việt Thắng, Tăng Duy Tân, Masew",
+                "type": "audio",
+                "link": "/bai-hat/Mah-Boo-Pham-Viet-Thang-Tang-Duy-Tan-Masew/Z6W9D6EZ.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/5/a/2/f/5a2f07af9a7d97b0db6f628e873ed466.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/8/1/4/d/814d01969315d0b6dd02275a4c894609.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "duration": 234,
+                "total": 4691,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 14,
+                "order": 14
+            },
+            {
+                "id": "Z6W7UE6C",
+                "name": "Là Do Anh",
+                "title": "Là Do Anh",
+                "code": "kmcHtZZVaWNdBQgTHyFHLHtZghsbLRzbb",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B67CFUW",
+                "artists": [
+                    {
+                        "name": "Huy Diệc",
+                        "link": "/nghe-si/La-Do-Anh-Huy-Diec-HOA-HONG-DAI-MUSIC"
+                    }
+                ],
+                "artists_names": "Huy Diệc, HOA HỒNG DẠI MUSIC",
+                "performer": "Huy Diệc, HOA HỒNG DẠI MUSIC",
+                "type": "audio",
+                "link": "/bai-hat/La-Do-Anh-Huy-Diec-HOA-HONG-DAI-MUSIC/Z6W7UE6C.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/4/8/0/0/48005272729db3f8bcc869e60177f1ff.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/b/d/2/dbd2622bf28755a38526fdfe05aa9d7c.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "duration": 285,
+                "total": 4564,
+                "rank_num": 2,
+                "rank_status": "down",
+                "position": 15,
+                "order": 15
+            },
+            {
+                "id": "Z6W87DW6",
+                "name": "Nhìn Về Phía Em",
+                "title": "Nhìn Về Phía Em",
+                "code": "LmxGyLkVNCWmxpztHtbHZGtZhgNvkiSFD",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B686ZOA",
+                "artists": [
+                    {
+                        "name": "Phan Duy Anh",
+                        "link": "/nghe-si/Nhin-Ve-Phia-Em-Phan-Duy-Anh-ACV"
+                    }
+                ],
+                "artists_names": "Phan Duy Anh, ACV",
+                "performer": "Phan Duy Anh, ACV",
+                "type": "audio",
+                "link": "/bai-hat/Nhin-Ve-Phia-Em-Phan-Duy-Anh-ACV/Z6W87DW6.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/d/e/9/f/de9f11c6cdc5821e4df57c87a6a3f55b.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/8/7/5/a/875a8943b4b66ccde9b3e1f211827d6d.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "duration": 299,
+                "total": 4548,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 16,
+                "order": 16
+            },
+            {
+                "id": "Z6WZUIBU",
+                "name": "Kết Mối Tơ Hồng",
+                "title": "Kết Mối Tơ Hồng",
+                "code": "kGJHykkdsSdumDJTmtFHZGykXgsFLESbF",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B66B0CW",
+                "artists": [
+                    {
+                        "name": "Hồ Duy Khang",
+                        "link": "/nghe-si/Ket-Moi-To-Hong-Ho-Duy-Khang-HOA-HONG-DAI-MUSIC"
+                    }
+                ],
+                "artists_names": "Hồ Duy Khang, HOA HỒNG DẠI MUSIC",
+                "performer": "Hồ Duy Khang, HOA HỒNG DẠI MUSIC",
+                "type": "audio",
+                "link": "/bai-hat/Ket-Moi-To-Hong-Ho-Duy-Khang-HOA-HONG-DAI-MUSIC/Z6WZUIBU.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/5/b/a/0/5ba0eec0116ed39abe2f0165dc179eb2.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/a/7/e/9/a7e92a8bfce3fbd6e2cd710843bfd26e.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "duration": 182,
+                "total": 4319,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 17,
+                "order": 17
+            },
+            {
+                "id": "Z6W8BO8I",
+                "name": "Ký Ức Về Em",
+                "title": "Ký Ức Về Em",
+                "code": "kGJmtLLVaXCzsCRyHtFnLntZCXNbZElDb",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B688WUZ",
+                "artists": [
+                    {
+                        "name": "Dee Trần",
+                        "link": "/nghe-si/Ky-Uc-Ve-Em-Dee-Tran"
+                    }
+                ],
+                "artists_names": "Dee Trần",
+                "performer": "Dee Trần",
+                "type": "audio",
+                "link": "/bai-hat/Ky-Uc-Ve-Em-Dee-Tran/Z6W8BO8I.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/0/c/f/1/0cf1a59ff1cc6f733ef8c2c6d67f8c9b.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/3/6/0/4/3604b16d9ff451bbe8e89a25756d4380.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "duration": 318,
+                "total": 4199,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 18,
+                "order": 18
+            },
+            {
+                "id": "Z6WEUW9U",
+                "name": "Hoa Sương",
+                "title": "Hoa Sương",
+                "code": "ZHxmykLVxmDRGaCyHtbHZnykgXaDLRzFb",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B6B700U",
+                "artists": [
+                    {
+                        "name": "Nhật Kim Anh",
+                        "link": "/nghe-si/Hoa-Suong-Nhat-Kim-Anh"
+                    }
+                ],
+                "artists_names": "Nhật Kim Anh",
+                "performer": "Nhật Kim Anh",
+                "type": "audio",
+                "link": "/bai-hat/Hoa-Suong-Nhat-Kim-Anh/Z6WEUW9U.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/e/e/2/0/ee20714c97647b594e2cd5263a11f094.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/6/a/5/16a54b5fa806bd420ee37a80fbfd808a.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "duration": 216,
+                "total": 3978,
+                "rank_num": 1,
+                "rank_status": "up",
+                "position": 19,
+                "order": 19
+            },
+            {
+                "id": "ZZDFBFD8",
+                "name": "Em Nên Dừng Lại",
+                "title": "Em Nên Dừng Lại",
+                "code": "kGJHtZLdFJJdxnGyntvnkmyLgCNbZRSbF",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BUZO7BW",
+                "artists": [
+                    {
+                        "name": "Khang Việt",
+                        "link": "/nghe-si/Em-Nen-Dung-Lai-Khang-Viet"
+                    }
+                ],
+                "artists_names": "Khang Việt",
+                "performer": "Khang Việt",
+                "type": "audio",
+                "link": "/bai-hat/Em-Nen-Dung-Lai-Khang-Viet/ZZDFBFD8.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/2/4/1/a/241a34003de64839eb49642f68038114.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/b/0/c/8/b0c8399ab4bf53e7eb1285ee1e8aaa32.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "duration": 368,
+                "total": 3901,
+                "rank_num": 1,
+                "rank_status": "down",
+                "position": 20,
+                "order": 20
+            },
+            {
+                "id": "Z6IWDOZZ",
+                "name": "Thế Giới Trong Em",
+                "title": "Thế Giới Trong Em",
+                "code": "ZmxHyZLVXDdZLFQtHTFmLHyZCgNDkElbF",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZDFZUB",
+                "artists": [
+                    {
+                        "name": "Hương Ly",
+                        "link": "/nghe-si/The-Gioi-Trong-Em-Huong-Ly-LY-M"
+                    }
+                ],
+                "artists_names": "Hương Ly, LY.M",
+                "performer": "Hương Ly, LY.M",
+                "type": "audio",
+                "link": "/bai-hat/The-Gioi-Trong-Em-Huong-Ly-LY-M/Z6IWDOZZ.html#video-clip",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/5/a/7/d/5a7d162ffc79916268ab6055758c4370.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/b/2/3/5/b23523f74ca4b55e1774fd8a7b468977.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "mv_link": "/video-clip/The-Gioi-Trong-Em-Huong-Ly-LY-M/Z6IWDOZZ.html",
+                "duration": 238,
+                "total": 3810,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 21,
+                "order": 21
+            },
+            {
+                "id": "Z6I69UFW",
+                "name": "Lâu Lâu Nhắc Lại",
+                "title": "Lâu Lâu Nhắc Lại",
+                "code": "ZHxGyLZVCSaNbExtmTDGLmyZCXNFLRSbv",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZFBFID",
+                "artists": [
+                    {
+                        "name": "Hà Nhi",
+                        "link": "/nghe-si/Lau-Lau-Nhac-Lai-Ha-Nhi-Khoi"
+                    }
+                ],
+                "artists_names": "Hà Nhi, Khói",
+                "performer": "Hà Nhi, Khói",
+                "type": "audio",
+                "link": "/bai-hat/Lau-Lau-Nhac-Lai-Ha-Nhi-Khoi/Z6I69UFW.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/b/6/2/9/b62990227d550fad11c9c1cba89bfc1b.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/a/f/6/c/af6c987756dbdfb45c47bf8a52b6c822.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "duration": 270,
+                "total": 3427,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 22,
+                "order": 22
+            },
+            {
+                "id": "Z6WZDUD9",
+                "name": "Hoa Tình Chẳng Nở",
+                "title": "Hoa Tình Chẳng Nở",
+                "code": "ZmcnyLkBazahXRNyHtbnZHtLhCsFZRlDF",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B66FAOB",
+                "artists": [
+                    {
+                        "name": "Dee Trần",
+                        "link": "/nghe-si/Hoa-Tinh-Chang-No-Dee-Tran"
+                    }
+                ],
+                "artists_names": "Dee Trần",
+                "performer": "Dee Trần",
+                "type": "audio",
+                "link": "/bai-hat/Hoa-Tinh-Chang-No-Dee-Tran/Z6WZDUD9.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/6/1/1/a/611ac6c72a2e6231f8d2588d1b5efd13.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/c/d/2/6/cd261f6fd88f4423dd9875abbf68dc6b.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "duration": 234,
+                "total": 3305,
+                "rank_num": 3,
+                "rank_status": "up",
+                "position": 23,
+                "order": 23
+            },
+            {
+                "id": "Z6IWFZWB",
+                "name": "Đáp Án Cuối Cùng",
+                "title": "Đáp Án Cuối Cùng",
+                "code": "LmcnyLLdCDdRNJNyHybmZGykChavkuAFv",
+                "content_owner": 10115,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZE07UE",
+                "artists": [
+                    {
+                        "name": "Quân A.P",
+                        "link": "/nghe-si/Dap-An-Cuoi-Cung-Quan-A-P"
+                    }
+                ],
+                "artists_names": "Quân A.P",
+                "performer": "Quân A.P",
+                "type": "audio",
+                "link": "/bai-hat/Dap-An-Cuoi-Cung-Quan-A-P/Z6IWFZWB.html#video-clip",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/9/b/d/7/9bd761e9ea9b3f176d8e3bc447375736.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/e/1/4/c/e14c2a971cdc07af45d943701b8b5c13.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "mv_link": "/video-clip/Dap-An-Cuoi-Cung-Quan-A-P/Z6IWFZWB.html",
+                "duration": 291,
+                "total": 3299,
+                "rank_num": 1,
+                "rank_status": "down",
+                "position": 24,
+                "order": 24
+            },
+            {
+                "id": "Z60A60FU",
+                "name": "Cứu Vãn Kịp Không",
+                "title": "Cứu Vãn Kịp Không",
+                "code": "kHxmykZBQCaspQXtGtbmkmyLghNbLRAFF",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZA88ZA",
+                "artists": [
+                    {
+                        "name": "Vương Anh Tú",
+                        "link": "/nghe-si/Cuu-Van-Kip-Khong-Vuong-Anh-Tu"
+                    }
+                ],
+                "artists_names": "Vương Anh Tú",
+                "performer": "Vương Anh Tú",
+                "type": "audio",
+                "link": "/bai-hat/Cuu-Van-Kip-Khong-Vuong-Anh-Tu/Z60A60FU.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/8/4/9/a/849a480d7b7159ac42ee95f7c6fed833.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/b/e/6/4/be64a8856566400dc3e2b959f252f363.jpg?fs=MTY2NzIwODYyMjU0Nnx3ZWJWNHw",
+                "duration": 280,
+                "total": 3271,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 25,
+                "order": 25
+            },
+            {
+                "id": "ZZDDBWF6",
+                "name": "Pháo Hồng",
+                "title": "Pháo Hồng",
+                "code": "LnxnykLBbsSEzdmymybmkHtLhgsDZuzFb",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BUUUF8W",
+                "artists": [
+                    {
+                        "name": "Đạt Long Vinh",
+                        "link": "/nghe-si/Phao-Hong-Dat-Long-Vinh"
+                    }
+                ],
+                "artists_names": "Đạt Long Vinh",
+                "performer": "Đạt Long Vinh",
+                "type": "audio",
+                "link": "/bai-hat/Phao-Hong-Dat-Long-Vinh/ZZDDBWF6.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/f/9/0/4/f9049335cb606ae50509373ca756aee1.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/3/9/8/d/398dd75c920409a73359c8a62f02a166.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 235,
+                "total": 3175,
+                "rank_num": 2,
+                "rank_status": "down",
+                "position": 26,
+                "order": 26
+            },
+            {
+                "id": "Z6W0008W",
+                "name": "Lúc Em Cần Anh Đang Ở Đâu",
+                "title": "Lúc Em Cần Anh Đang Ở Đâu",
+                "code": "kHJHtLLdamRlgQcymyFmZmyLXCabZiAbb",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B6UICZZ",
+                "artists": [
+                    {
+                        "name": "Bảo Uyên",
+                        "link": "/nghe-si/Luc-Em-Can-Anh-Dang-O-Dau-Bao-Uyen-RIN9-DREAMeR"
+                    }
+                ],
+                "artists_names": "Bảo Uyên, RIN9, DREAMeR",
+                "performer": "Bảo Uyên, RIN9, DREAMeR",
+                "type": "audio",
+                "link": "/bai-hat/Luc-Em-Can-Anh-Dang-O-Dau-Bao-Uyen-RIN9-DREAMeR/Z6W0008W.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/9/c/0/1/9c018021376f2d7e50e6ef9613f3234e.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/c/1/4/4/c1440c40660ed418003ee0bb86cfee94.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 319,
+                "total": 3076,
+                "rank_num": 3,
+                "rank_status": "up",
+                "position": 27,
+                "order": 27
+            },
+            {
+                "id": "Z6IFOOZA",
+                "name": "Xuôi Dòng Cửu Long",
+                "title": "Xuôi Dòng Cửu Long",
+                "code": "kmxmtkZdaHlFZdJyHtFnZHykhhsvLiSbF",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B6OBA7W",
+                "artists": [
+                    {
+                        "name": "Diệu Kiên",
+                        "link": "/nghe-si/Xuoi-Dong-Cuu-Long-Dieu-Kien"
+                    }
+                ],
+                "artists_names": "Diệu Kiên",
+                "performer": "Diệu Kiên",
+                "type": "audio",
+                "link": "/bai-hat/Xuoi-Dong-Cuu-Long-Dieu-Kien/Z6IFOOZA.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/e/c/e/5/ece547ce228bb4e17db74a937905d7d5.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/a/d/2/7/ad270c623249e1d583f06ad0fc275b9c.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 211,
+                "total": 3024,
+                "rank_num": 1,
+                "rank_status": "down",
+                "position": 28,
+                "order": 28
+            },
+            {
+                "id": "Z6IAE9I7",
+                "name": "Con Tim Không Đổi Thay",
+                "title": "Con Tim Không Đổi Thay",
+                "code": "LHxmyZLBhaCHixBtHtDGLmyZCgNFLRSbD",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B6ICUFO",
+                "artists": [
+                    {
+                        "name": "Dee Trần",
+                        "link": "/nghe-si/Con-Tim-Khong-Doi-Thay-Dee-Tran"
+                    }
+                ],
+                "artists_names": "Dee Trần",
+                "performer": "Dee Trần",
+                "type": "audio",
+                "link": "/bai-hat/Con-Tim-Khong-Doi-Thay-Dee-Tran/Z6IAE9I7.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/5/5/7/9/5579fadded64d7da7b284c27a8860313.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/9/7/1/1971ce77b6ece212760349d84678470f.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 213,
+                "total": 2966,
+                "rank_num": 1,
+                "rank_status": "down",
+                "position": 29,
+                "order": 29
+            },
+            {
+                "id": "Z6W876Z7",
+                "name": "Nếu Phải Mất Nhau",
+                "title": "Nếu Phải Mất Nhau",
+                "code": "ZHxnyLLdahAiLkLTmtbnLmykXhaDZRSbb",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B6860ZC",
+                "artists": [
+                    {
+                        "name": "Đình Dũng",
+                        "link": "/nghe-si/Neu-Phai-Mat-Nhau-Dinh-Dung"
+                    }
+                ],
+                "artists_names": "Đình Dũng",
+                "performer": "Đình Dũng",
+                "type": "audio",
+                "link": "/bai-hat/Neu-Phai-Mat-Nhau-Dinh-Dung/Z6W876Z7.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/0/b/b/c/0bbc195b8edc248cc331b0befaee1c3e.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/3/e/5/c/3e5c23a20ef17f30b31a1474b7c1d2f3.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 298,
+                "total": 2931,
+                "rank_num": 1,
+                "rank_status": "up",
+                "position": 30,
+                "order": 30
+            },
+            {
+                "id": "ZZEEOCFZ",
+                "name": "Dang Dở",
+                "title": "Dang Dở",
+                "code": "ZHxmyZZBdcBVddVtGybmkHyZghsDLRAbb",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BUCE6BC",
+                "artists": [
+                    {
+                        "name": "Nal",
+                        "link": "/nghe-si/Dang-Do-Nal-CT"
+                    }
+                ],
+                "artists_names": "Nal, CT",
+                "performer": "Nal, CT",
+                "type": "audio",
+                "link": "/bai-hat/Dang-Do-Nal-CT/ZZEEOCFZ.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/e/1/6/2/e1627f391df1286a8e99e37dce0b1cca.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/e/4/c/1e4cbb712a766f626e10bfebf5383591.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 290,
+                "total": 2789,
+                "rank_num": 2,
+                "rank_status": "down",
+                "position": 31,
+                "order": 31
+            },
+            {
+                "id": "ZZFW8F7B",
+                "name": "Mặt Mộc",
+                "title": "Mặt Mộc",
+                "code": "kmcmyZkBlkkhhmdyGtFmZHykChNvZizbF",
+                "content_owner": 10117,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BUF08F8",
+                "artists": [
+                    {
+                        "name": "Nhiều Nghệ Sĩ",
+                        "link": "/nghe-si/Mat-Moc-Pham-Nguyen-Ngoc-Vanh-An-Nhi-BMZ"
+                    }
+                ],
+                "artists_names": "Phạm Nguyên Ngọc, Vanh, Ân Nhi, BMZ",
+                "performer": "Phạm Nguyên Ngọc, Vanh, Ân Nhi, BMZ",
+                "type": "audio",
+                "link": "/bai-hat/Mat-Moc-Pham-Nguyen-Ngoc-Vanh-An-Nhi-BMZ/ZZFW8F7B.html#video-clip",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/b/d/3/d/bd3d7b2da464a328f2d16df43e39fe25.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/3/0/d/e/30de909a49e4b6e2fa888841bc2ca802.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "mv_link": "/video-clip/Mat-Moc-Pham-Nguyen-Ngoc-Vanh-An-Nhi-BMZ/ZZFW8F7B.html",
+                "duration": 214,
+                "total": 2593,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 32,
+                "order": 32
+            },
+            {
+                "id": "ZZFZW6U9",
+                "name": "Nhìn Về Phía Em",
+                "title": "Nhìn Về Phía Em",
+                "code": "LmcmTZkBSbJhbJLyHtFnkHtLhXaFkRzFD",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZ0U80U",
+                "artists": [
+                    {
+                        "name": "Đình Dũng",
+                        "link": "/nghe-si/Nhin-Ve-Phia-Em-Dinh-Dung-Minh-Vuong-M4U-ACV"
+                    }
+                ],
+                "artists_names": "Đình Dũng, Minh Vương M4U, ACV",
+                "performer": "Đình Dũng, Minh Vương M4U, ACV",
+                "type": "audio",
+                "link": "/bai-hat/Nhin-Ve-Phia-Em-Dinh-Dung-Minh-Vuong-M4U-ACV/ZZFZW6U9.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/b/0/8/1/b08114fd8a25ece2d3e8c4fbad54e582.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/2/2/7/5/2275dda526935755fc51b587e08e1d7e.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 303,
+                "total": 2368,
+                "rank_num": 2,
+                "rank_status": "up",
+                "position": 33,
+                "order": 33
+            },
+            {
+                "id": "ZZEAIFBD",
+                "name": "Tiếng Pháo Tiễn Người",
+                "title": "Tiếng Pháo Tiễn Người",
+                "code": "LmxnyZLdVphdsHRTHyvmZmtZXXaDZRSvv",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BUABEWO",
+                "artists": [
+                    {
+                        "name": "Hùng Quân",
+                        "link": "/nghe-si/Tieng-Phao-Tien-Nguoi-Hung-Quan"
+                    }
+                ],
+                "artists_names": "Hùng Quân",
+                "performer": "Hùng Quân",
+                "type": "audio",
+                "link": "/bai-hat/Tieng-Phao-Tien-Nguoi-Hung-Quan/ZZEAIFBD.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/7/a/f/d/7afd8b9747cc2b9d51229e5ca38e0542.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/b/7/8/5/b7853b339822edbda2293f9dd9177118.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 240,
+                "total": 2288,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 34,
+                "order": 34
+            },
+            {
+                "id": "Z6W8AIO9",
+                "name": "Ừ! Em Xin Lỗi",
+                "title": "Ừ! Em Xin Lỗi",
+                "code": "ZmJmtLLVaChmmJitHtDHLnTkhXNvZRSFF",
+                "content_owner": 10117,
+                "isoffical": true,
+                "isWorldWide": false,
+                "playlist_id": "6B68ZCZF",
+                "artists": [
+                    {
+                        "name": "Hoàng Yến Chibi",
+                        "link": "/nghe-si/U-Em-Xin-Loi-Hoang-Yen-Chibi-B-Ray-Khac-Hung"
+                    }
+                ],
+                "artists_names": "Hoàng Yến Chibi, B Ray, Khắc Hưng",
+                "performer": "Hoàng Yến Chibi, B Ray, Khắc Hưng",
+                "type": "audio",
+                "link": "/bai-hat/U-Em-Xin-Loi-Hoang-Yen-Chibi-B-Ray-Khac-Hung/Z6W8AIO9.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/4/e/9/7/4e9700b9d9a2b5725dc2dd2ca86e91d0.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/b/3/4/0b34c4c68b73f906d128bb2f1722e5cf.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 208,
+                "total": 2213,
+                "rank_num": 10,
+                "rank_status": "up",
+                "position": 35,
+                "order": 35
+            },
+            {
+                "id": "Z6WIW6UI",
+                "name": "Dám Yêu Không?",
+                "title": "Dám Yêu Không?",
+                "code": "ZmcnykZdaZgiJpsyGTbHkHyLXCsFLulbD",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B6UBOWI",
+                "artists": [
+                    {
+                        "name": "Tracy Thảo My",
+                        "link": "/nghe-si/Dam-Yeu-Khong-Tracy-Thao-My-YuniBoo"
+                    }
+                ],
+                "artists_names": "Tracy Thảo My, YuniBoo",
+                "performer": "Tracy Thảo My, YuniBoo",
+                "type": "audio",
+                "link": "/bai-hat/Dam-Yeu-Khong-Tracy-Thao-My-YuniBoo/Z6WIW6UI.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/b/0/2/8/b0285f60e2bbe482204ea4aace624449.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/4/0/4/1/4041be11ef79278f69df6da046b33fb1.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 182,
+                "total": 2185,
+                "rank_num": 3,
+                "rank_status": "down",
+                "position": 36,
+                "order": 36
+            },
+            {
+                "id": "Z6WCFBUO",
+                "name": "Kết Thúc Bắt Đầu",
+                "title": "Kết Thúc Bắt Đầu",
+                "code": "kmxGTZkdaRSpDJdyGtbmZmtLgXNDLuzbb",
+                "content_owner": 10119,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B6ABD6W",
+                "artists": [
+                    {
+                        "name": "Da LAB",
+                        "link": "/nghe-si/Ket-Thuc-Bat-Dau-Da-LAB-Duc-Phuc"
+                    }
+                ],
+                "artists_names": "Da LAB, Đức Phúc",
+                "performer": "Da LAB, Đức Phúc",
+                "type": "audio",
+                "link": "/bai-hat/Ket-Thuc-Bat-Dau-Da-LAB-Duc-Phuc/Z6WCFBUO.html#video-clip",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/6/2/1/0/6210ec97988d8f5227a93cabbe84173c.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/3/f/f/5/3ff579eb32b77b133a04085e909228e8.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "mv_link": "/video-clip/Ket-Thuc-Bat-Dau-Da-LAB-Duc-Phuc/Z6WCFBUO.html",
+                "duration": 261,
+                "total": 2120,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 37,
+                "order": 37
+            },
+            {
+                "id": "Z6IUBOB7",
+                "name": "Chạm",
+                "title": "Chạm",
+                "code": "kHxntkZdXVWAZmdtHyvmLmTZChavZuAFD",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZEDFA8",
+                "artists": [
+                    {
+                        "name": "Ưng Hoàng Phúc",
+                        "link": "/nghe-si/Cham-Ung-Hoang-Phuc"
+                    }
+                ],
+                "artists_names": "Ưng Hoàng Phúc",
+                "performer": "Ưng Hoàng Phúc",
+                "type": "audio",
+                "link": "/bai-hat/Cham-Ung-Hoang-Phuc/Z6IUBOB7.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/b/a/5/4/ba547df2364071ac32a842f0204eb00f.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/e/9/4/9/e9496d862b424996e1f0db7f7e30948d.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 280,
+                "total": 2065,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 38,
+                "order": 38
+            },
+            {
+                "id": "Z6WUZOCC",
+                "name": "Ngày Trái Tim Rơi Lệ",
+                "title": "Ngày Trái Tim Rơi Lệ",
+                "code": "LmxGyLLVadNxZFStnyDmkGykhhNbZRzvv",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B66OC8I",
+                "artists": [
+                    {
+                        "name": "Nguyễn Đình Vũ",
+                        "link": "/nghe-si/Ngay-Trai-Tim-Roi-Le-Nguyen-Dinh-Vu"
+                    }
+                ],
+                "artists_names": "Nguyễn Đình Vũ",
+                "performer": "Nguyễn Đình Vũ",
+                "type": "audio",
+                "link": "/bai-hat/Ngay-Trai-Tim-Roi-Le-Nguyen-Dinh-Vu/Z6WUZOCC.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/7/6/4/2/7642779bff27d871157c9b8f9677642d.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/9/d/2/d/9d2d25109a276178acc6f88fbca8261f.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 225,
+                "total": 2049,
+                "rank_num": 3,
+                "rank_status": "up",
+                "position": 39,
+                "order": 39
+            },
+            {
+                "id": "ZZF99679",
+                "name": "Kiệu Hoa",
+                "title": "Kiệu Hoa",
+                "code": "ZHxntZkdzpasZSQynTbnLntLChNFkuSbv",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZ7ZAD7",
+                "artists": [
+                    {
+                        "name": "BÌN",
+                        "link": "/nghe-si/Kieu-Hoa-BIN"
+                    }
+                ],
+                "artists_names": "BÌN",
+                "performer": "BÌN",
+                "type": "audio",
+                "link": "/bai-hat/Kieu-Hoa-BIN/ZZF99679.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/2/4/b/c/24bcdd194b1ca20224748d08c7f45bb8.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/4/3/1/f/431f7854f45b99b790815e500495b8f1.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 177,
+                "total": 2049,
+                "rank_num": 1,
+                "rank_status": "down",
+                "position": 40,
+                "order": 40
+            },
+            {
+                "id": "Z6WOW6WO",
+                "name": "Xem Như Em Chẳng May",
+                "title": "Xem Như Em Chẳng May",
+                "code": "LHJHtkkdNBGmxiuTmTDHZntLCCabZuzFb",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B6ZA998",
+                "artists": [
+                    {
+                        "name": "Lương Bích Hữu",
+                        "link": "/nghe-si/Xem-Nhu-Em-Chang-May-Luong-Bich-Huu-Trung-Ngon"
+                    }
+                ],
+                "artists_names": "Lương Bích Hữu, Trung Ngon",
+                "performer": "Lương Bích Hữu, Trung Ngon",
+                "type": "audio",
+                "link": "/bai-hat/Xem-Nhu-Em-Chang-May-Luong-Bich-Huu-Trung-Ngon/Z6WOW6WO.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/9/5/6/f/956f01e4cfe64712b49f81987cb9a77b.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/2/f/1/d/2f1dcbcb0fb3f504ae6f2b06b737f249.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 282,
+                "total": 1989,
+                "rank_num": 1,
+                "rank_status": "down",
+                "position": 41,
+                "order": 41
+            },
+            {
+                "id": "Z6WCA89B",
+                "name": "Đồng Vàng",
+                "title": "Đồng Vàng",
+                "code": "LGJnyLkdsEFAkFdyHyFGknyZhCsbLRlDD",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B6AAWUU",
+                "artists": [
+                    {
+                        "name": "Jombie",
+                        "link": "/nghe-si/Dong-Vang-Jombie-Sona-Chips"
+                    }
+                ],
+                "artists_names": "Jombie, Sona, Chips",
+                "performer": "Jombie, Sona, Chips",
+                "type": "audio",
+                "link": "/bai-hat/Dong-Vang-Jombie-Sona-Chips/Z6WCA89B.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/8/5/8/7/8587af2925dbaa2c73e254fab0390870.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/e/a/e/4/eae4510b2daba4ca7df9fa52975cd0ad.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 317,
+                "total": 1988,
+                "rank_num": 1,
+                "rank_status": "down",
+                "position": 42,
+                "order": 42
+            },
+            {
+                "id": "Z6IUD8OZ",
+                "name": "Tại Vì Anh Yêu Người Khác",
+                "title": "Tại Vì Anh Yêu Người Khác",
+                "code": "LnJmykLBCBhVSSptnTvHkmTLhCsFkRAvF",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZEF0WW",
+                "artists": [
+                    {
+                        "name": "Hana Cẩm Tiên",
+                        "link": "/nghe-si/Tai-Vi-Anh-Yeu-Nguoi-Khac-Hana-Cam-Tien-93NEW-G"
+                    }
+                ],
+                "artists_names": "Hana Cẩm Tiên, 93NEW-G",
+                "performer": "Hana Cẩm Tiên, 93NEW-G",
+                "type": "audio",
+                "link": "/bai-hat/Tai-Vi-Anh-Yeu-Nguoi-Khac-Hana-Cam-Tien-93NEW-G/Z6IUD8OZ.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/b/7/5/1/b75124199839d285168763230900dc3a.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/5/1/6/d/516d53d9ab501bf549a0dae4f84e6902.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 308,
+                "total": 1973,
+                "rank_num": 7,
+                "rank_status": "down",
+                "position": 43,
+                "order": 43
+            },
+            {
+                "id": "ZZDI9B7U",
+                "name": "Vì Mẹ Anh Bắt Chia Tay",
+                "title": "Vì Mẹ Anh Bắt Chia Tay",
+                "code": "ZHcnyZLVLupgucGyGTbnkmykChNbLizbb",
+                "content_owner": 10115,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BOEEZ99",
+                "artists": [
+                    {
+                        "name": "Miu Lê",
+                        "link": "/nghe-si/Vi-Me-Anh-Bat-Chia-Tay-Miu-Le-Karik-Chau-Dang-Khoa"
+                    }
+                ],
+                "artists_names": "Miu Lê, Karik, Châu Đăng Khoa",
+                "performer": "Miu Lê, Karik, Châu Đăng Khoa",
+                "type": "audio",
+                "link": "/bai-hat/Vi-Me-Anh-Bat-Chia-Tay-Miu-Le-Karik-Chau-Dang-Khoa/ZZDI9B7U.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/8/a/c/e/8ace218e600f48bbf5153506218d4b76.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/b/8/9/1b8958017b04a663eb8c093905dd4d85.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 262,
+                "total": 1965,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 44,
+                "order": 44
+            },
+            {
+                "id": "ZZFODOZU",
+                "name": "Người Đáng Thương Là Anh",
+                "title": "Người Đáng Thương Là Anh",
+                "code": "ZmcmtZkBSLiiWmcTHyFmZHykXhsbLuzbD",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BUFAEWA",
+                "artists": [
+                    {
+                        "name": "OnlyC",
+                        "link": "/nghe-si/Nguoi-Dang-Thuong-La-Anh-OnlyC"
+                    }
+                ],
+                "artists_names": "OnlyC",
+                "performer": "OnlyC",
+                "type": "audio",
+                "link": "/bai-hat/Nguoi-Dang-Thuong-La-Anh-OnlyC/ZZFODOZU.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/d/8/6/b/d86b807ceeaf11f3b3c19a0c54db39e4.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/7/1/a/d/71adfd9bf22ced6fbe5f36806fd2d030.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 292,
+                "total": 1937,
+                "rank_num": 1,
+                "rank_status": "up",
+                "position": 45,
+                "order": 45
+            },
+            {
+                "id": "Z60BAWEO",
+                "name": "Em Lấy Chồng",
+                "title": "Em Lấy Chồng",
+                "code": "ZGxmyZLVpaQiEaLTmyvmkHyLCXNDkiSFb",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZADWAA",
+                "artists": [
+                    {
+                        "name": "Khắc Việt",
+                        "link": "/nghe-si/Em-Lay-Chong-Khac-Viet-ACV"
+                    }
+                ],
+                "artists_names": "Khắc Việt, ACV",
+                "performer": "Khắc Việt, ACV",
+                "type": "audio",
+                "link": "/bai-hat/Em-Lay-Chong-Khac-Viet-ACV/Z60BAWEO.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/e/d/2/4/ed24ba687f95a18a12b48249886bf908.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/5/1/5/e/515ee410d55fd71ae7c59e13f57ae47f.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 256,
+                "total": 1901,
+                "rank_num": 3,
+                "rank_status": "down",
+                "position": 46,
+                "order": 46
+            },
+            {
+                "id": "ZZDD86BZ",
+                "name": "Thuyền Quyên",
+                "title": "Thuyền Quyên",
+                "code": "LncGyLkdDadckmLTntbnkHyZCCNvkilFD",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BUUOE00",
+                "artists": [
+                    {
+                        "name": "Diệu Kiên",
+                        "link": "/nghe-si/Thuyen-Quyen-Dieu-Kien"
+                    }
+                ],
+                "artists_names": "Diệu Kiên",
+                "performer": "Diệu Kiên",
+                "type": "audio",
+                "link": "/bai-hat/Thuyen-Quyen-Dieu-Kien/ZZDD86BZ.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/f/9/8/c/f98c677556143de27ea85f443dc1aaf2.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/2/e/c/5/2ec51983dbff681cc3cb7af20b4c7ad2.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 193,
+                "total": 1822,
+                "rank_num": 3,
+                "rank_status": "up",
+                "position": 47,
+                "order": 47
+            },
+            {
+                "id": "Z6W9Z6I0",
+                "name": "Sao Cũng Được (Cover)",
+                "title": "Sao Cũng Được (Cover)",
+                "code": "kHJGtZkBaNmXBJzyGybmLmTLXXNFkiSDb",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B6AAU08",
+                "artists": [
+                    {
+                        "name": "Tú Na",
+                        "link": "/nghe-si/Sao-Cung-Duoc-Cover-Tu-Na"
+                    }
+                ],
+                "artists_names": "Tú Na",
+                "performer": "Tú Na",
+                "type": "audio",
+                "link": "/bai-hat/Sao-Cung-Duoc-Cover-Tu-Na/Z6W9Z6I0.html",
+                "lyric": "",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/b/8/a/6/b8a69da17973b1d84d8388ca8bcfe096.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 319,
+                "total": 1804,
+                "rank_num": 1,
+                "rank_status": "down",
+                "position": 48,
+                "order": 48
+            },
+            {
+                "id": "ZZEF769O",
+                "name": "Ngày Mai Em Đi Mất",
+                "title": "Ngày Mai Em Đi Mất",
+                "code": "ZHcHtZLBdRLdhkutmyFHkGTZXCNFkuSFF",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BUD8ZA9",
+                "artists": [
+                    {
+                        "name": "Khải Đăng",
+                        "link": "/nghe-si/Ngay-Mai-Em-Di-Mat-Khai-Dang-Dat-G"
+                    }
+                ],
+                "artists_names": "Khải Đăng, Đạt G",
+                "performer": "Khải Đăng, Đạt G",
+                "type": "audio",
+                "link": "/bai-hat/Ngay-Mai-Em-Di-Mat-Khai-Dang-Dat-G/ZZEF769O.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/5/d/7/9/5d79934bbf228fba2f2d507280ea3035.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/9/8/6/c/986ccfe2a965e11b4c967745a0fefe96.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 246,
+                "total": 1803,
+                "rank_num": 1,
+                "rank_status": "down",
+                "position": 49,
+                "order": 49
+            },
+            {
+                "id": "ZZFFZ9UC",
+                "name": "Muốn Anh Là Của Em",
+                "title": "Muốn Anh Là Của Em",
+                "code": "ZHcmTkZVzRpAsmHymyvmkGyLCCNFkRzFD",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZZ0WUF",
+                "artists": [
+                    {
+                        "name": "Kiều Trang",
+                        "link": "/nghe-si/Muon-Anh-La-Cua-Em-Kieu-Trang-X2X-LY-M"
+                    }
+                ],
+                "artists_names": "Kiều Trang, X2X, LY.M",
+                "performer": "Kiều Trang, X2X, LY.M",
+                "type": "audio",
+                "link": "/bai-hat/Muon-Anh-La-Cua-Em-Kieu-Trang-X2X-LY-M/ZZFFZ9UC.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/0/0/f/2/00f2e7af9d12faf4151f459b4a0bfcf2.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/8/7/7/c/877cd81f44ad324d1d215903d4c18041.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 218,
+                "total": 1788,
+                "rank_num": 1,
+                "rank_status": "up",
+                "position": 50,
+                "order": 50
+            },
+            {
+                "id": "Z6WCFBE9",
+                "name": "Lu Mờ Tâm Trí",
+                "title": "Lu Mờ Tâm Trí",
+                "code": "ZHcnykkdsEAQASRyGTDmLmtZChabZiSFv",
+                "content_owner": 10119,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "SB6ABDA9",
+                "artists": [
+                    {
+                        "name": "Ngô Kiến Huy",
+                        "link": "/nghe-si/Lu-Mo-Tam-Tri-Ngo-Kien-Huy-Vuong-Anh-Tu"
+                    }
+                ],
+                "artists_names": "Ngô Kiến Huy, Vương Anh Tú",
+                "performer": "Ngô Kiến Huy, Vương Anh Tú",
+                "type": "audio",
+                "link": "/bai-hat/Lu-Mo-Tam-Tri-Ngo-Kien-Huy-Vuong-Anh-Tu/Z6WCFBE9.html#video-clip",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/2/2/f/3/22f3326600752d3131a592634508db37.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/5/5/3/3/5533c8ea05b9fd972007d9e36afcfe6a.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "mv_link": "/video-clip/Lu-Mo-Tam-Tri-Ngo-Kien-Huy-Vuong-Anh-Tu/Z6WCFBE9.html",
+                "duration": 267,
+                "total": 1706,
+                "rank_num": 2,
+                "rank_status": "down",
+                "position": 51,
+                "order": 51
+            },
+            {
+                "id": "Z6WCOZUZ",
+                "name": "Vô Lượng",
+                "title": "Vô Lượng",
+                "code": "LmxnTkLVsxizWistHyDHZmtZhhsvZRlvF",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B6A6ZWC",
+                "artists": [
+                    {
+                        "name": "Masew",
+                        "link": "/nghe-si/Vo-Luong-Masew-Khoi-Vu-Great"
+                    }
+                ],
+                "artists_names": "Masew, Khoi Vu, Great",
+                "performer": "Masew, Khoi Vu, Great",
+                "type": "audio",
+                "link": "/bai-hat/Vo-Luong-Masew-Khoi-Vu-Great/Z6WCOZUZ.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/9/5/0/4/950490e3bbbcf98e60af827c6c821c18.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/e/2/2/8/e2286b530189aec0d843eaf079bad4b1.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 233,
+                "total": 1685,
+                "rank_num": 2,
+                "rank_status": "up",
+                "position": 52,
+                "order": 52
+            },
+            {
+                "id": "ZZFUAOWO",
+                "name": "Vô Tư",
+                "title": "Vô Tư",
+                "code": "kGcHTZZdSFQFNnsyntbGZGtLXCNvkuSDF",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZ00C0E",
+                "artists": [
+                    {
+                        "name": "Anh Quân Idol",
+                        "link": "/nghe-si/Vo-Tu-Anh-Quan-Idol"
+                    }
+                ],
+                "artists_names": "Anh Quân Idol",
+                "performer": "Anh Quân Idol",
+                "type": "audio",
+                "link": "/bai-hat/Vo-Tu-Anh-Quan-Idol/ZZFUAOWO.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/5/8/b/b/58bbfd152655c03008db993e13cc7014.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/9/7/0/0970465f2b3f2648d0d19e6ec7dea84a.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 321,
+                "total": 1607,
+                "rank_num": 2,
+                "rank_status": "up",
+                "position": 53,
+                "order": 53
+            },
+            {
+                "id": "ZZBUE7ZA",
+                "name": "Thương Em",
+                "title": "Thương Em",
+                "code": "LncnyZkBmGNQxCgtntDmkmTLCCaDZuzDD",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BOI6O8E",
+                "artists": [
+                    {
+                        "name": "Châu Khải Phong",
+                        "link": "/nghe-si/Thuong-Em-Chau-Khai-Phong-ACV"
+                    }
+                ],
+                "artists_names": "Châu Khải Phong, ACV",
+                "performer": "Châu Khải Phong, ACV",
+                "type": "audio",
+                "link": "/bai-hat/Thuong-Em-Chau-Khai-Phong-ACV/ZZBUE7ZA.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/4/3/8/0/4380bfa57dafd052ec2d3fb695cacea2.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/b/0/0/3/b003deb65962e3b9b5f61f21f2f375ba.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 300,
+                "total": 1601,
+                "rank_num": 1,
+                "rank_status": "down",
+                "position": 54,
+                "order": 54
+            },
+            {
+                "id": "Z6WC0UDE",
+                "name": "Chấp Niệm",
+                "title": "Chấp Niệm",
+                "code": "ZHJHyLkdNxxFFmhtmtbHZHtkChNDZiSFb",
+                "content_owner": 10119,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B6AU77O",
+                "artists": [
+                    {
+                        "name": "Trương Thảo Nhi",
+                        "link": "/nghe-si/Chap-Niem-Truong-Thao-Nhi"
+                    }
+                ],
+                "artists_names": "Trương Thảo Nhi",
+                "performer": "Trương Thảo Nhi",
+                "type": "audio",
+                "link": "/bai-hat/Chap-Niem-Truong-Thao-Nhi/Z6WC0UDE.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/2/c/c/5/2cc5871d7d2ed92daf01301f561362d5.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/a/5/c/0/a5c0f5104772544ff79c7a562e22a7ed.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 238,
+                "total": 1561,
+                "rank_num": 3,
+                "rank_status": "down",
+                "position": 55,
+                "order": 55
+            },
+            {
+                "id": "Z6IWZCBC",
+                "name": "Thúc Sinh",
+                "title": "Thúc Sinh",
+                "code": "LmxmykLVhFmHNXSyGyFHLHTLgCNDLiSFb",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZDBD80",
+                "artists": [
+                    {
+                        "name": "Long Nón Lá",
+                        "link": "/nghe-si/Thuc-Sinh-Long-Non-La"
+                    }
+                ],
+                "artists_names": "Long Nón Lá",
+                "performer": "Long Nón Lá",
+                "type": "audio",
+                "link": "/bai-hat/Thuc-Sinh-Long-Non-La/Z6IWZCBC.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/a/3/4/e/a34e2fd2a24e35286cd7f76e99f218de.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/9/a/1/e/9a1e98ec76846dd196bd52d1d039bdd4.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 249,
+                "total": 1533,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 56,
+                "order": 56
+            },
+            {
+                "id": "ZZFW86D6",
+                "name": "Chưa Quên Người Yêu Cũ",
+                "title": "Chưa Quên Người Yêu Cũ",
+                "code": "ZmcnyZkdzZZSBEntGyFnkmTLgCNFLRAvb",
+                "content_owner": 10092,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BUF0ZCZ",
+                "artists": [
+                    {
+                        "name": "Hà Nhi",
+                        "link": "/nghe-si/Chua-Quen-Nguoi-Yeu-Cu-Ha-Nhi"
+                    }
+                ],
+                "artists_names": "Hà Nhi",
+                "performer": "Hà Nhi",
+                "type": "audio",
+                "link": "/bai-hat/Chua-Quen-Nguoi-Yeu-Cu-Ha-Nhi/ZZFW86D6.html#video-clip",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/a/3/8/2/a382276a2559e7c4b1c272c5350fdcb6.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/5/f/a/2/5fa229dc30ca9b5e680f1755afdab812.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "mv_link": "/video-clip/Chua-Quen-Nguoi-Yeu-Cu-Ha-Nhi/ZZFW86D6.html",
+                "duration": 302,
+                "total": 1527,
+                "rank_num": 4,
+                "rank_status": "up",
+                "position": 57,
+                "order": 57
+            },
+            {
+                "id": "Z6ICZDDO",
+                "name": "Lập Lờ",
+                "title": "Lập Lờ",
+                "code": "kHcHykLdCxWhSndyGyDmLHtLChNbZESbv",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B6WZD0D",
+                "artists": [
+                    {
+                        "name": "Tú Na",
+                        "link": "/nghe-si/Lap-Lo-Tu-Na"
+                    }
+                ],
+                "artists_names": "Tú Na",
+                "performer": "Tú Na",
+                "type": "audio",
+                "link": "/bai-hat/Lap-Lo-Tu-Na/Z6ICZDDO.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/8/e/3/9/8e3961304c6633a76b42a72af30d0d66.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/f/9/c/e/f9ced3fa2392c42b83853d4e847914c0.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 262,
+                "total": 1520,
+                "rank_num": 1,
+                "rank_status": "down",
+                "position": 58,
+                "order": 58
+            },
+            {
+                "id": "Z6WEOBA6",
+                "name": "Dễ Yêu Dễ Quên",
+                "title": "Dễ Yêu Dễ Quên",
+                "code": "kmxGyLZBcHFadnbtGTbHkmyLCCaDkuSFv",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "SB6B6D88",
+                "artists": [
+                    {
+                        "name": "Nhật Tinh Anh",
+                        "link": "/nghe-si/De-Yeu-De-Quen-Nhat-Tinh-Anh"
+                    }
+                ],
+                "artists_names": "Nhật Tinh Anh",
+                "performer": "Nhật Tinh Anh",
+                "type": "audio",
+                "link": "/bai-hat/De-Yeu-De-Quen-Nhat-Tinh-Anh/Z6WEOBA6.html#video-clip",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/9/3/8/a/938a8c33e8d0ddb2d5186d09d8ae87d4.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/e/0/8/f/e08f0974c98f8126106334620c78cb0e.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "mv_link": "/video-clip/De-Yeu-De-Quen-Nhat-Tinh-Anh/Z6WEOBA6.html",
+                "duration": 281,
+                "total": 1463,
+                "rank_num": 1,
+                "rank_status": "down",
+                "position": 59,
+                "order": 59
+            },
+            {
+                "id": "Z60BC0IC",
+                "name": "Có Đâu Ai Ngờ",
+                "title": "Có Đâu Ai Ngờ",
+                "code": "ZmJHtLLBWshNzWvTmtFHZGTkhhNvLulDb",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZADFE8",
+                "artists": [
+                    {
+                        "name": "Thu Cầm",
+                        "link": "/nghe-si/Co-Dau-Ai-Ngo-Thu-Cam"
+                    }
+                ],
+                "artists_names": "Thu Cầm",
+                "performer": "Thu Cầm",
+                "type": "audio",
+                "link": "/bai-hat/Co-Dau-Ai-Ngo-Thu-Cam/Z60BC0IC.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/5/e/7/c/5e7c103afe6ff033b407639620a75331.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/8/f/a/d/8fad544d5867f773beb186a88d9f9071.jpg?fs=MTY2NzIwODYyMjU0N3x3ZWJWNHw",
+                "duration": 220,
+                "total": 1446,
+                "rank_num": 2,
+                "rank_status": "up",
+                "position": 60,
+                "order": 60
+            },
+            {
+                "id": "ZZFFOE8A",
+                "name": "Yêu Thương Là Bão Tố",
+                "title": "Yêu Thương Là Bão Tố",
+                "code": "kHJmTZLVziSNxWmymTFnkntZXhNbLiAbF",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZUF8E0",
+                "artists": [
+                    {
+                        "name": "Hùng Quân",
+                        "link": "/nghe-si/Yeu-Thuong-La-Bao-To-Hung-Quan"
+                    }
+                ],
+                "artists_names": "Hùng Quân",
+                "performer": "Hùng Quân",
+                "type": "audio",
+                "link": "/bai-hat/Yeu-Thuong-La-Bao-To-Hung-Quan/ZZFFOE8A.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/8/e/1/2/8e1289996317e85cf3e7dae1365efbc8.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/5/9/0/d590b38383d8b69788908c2e5e831710.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 243,
+                "total": 1430,
+                "rank_num": 2,
+                "rank_status": "down",
+                "position": 61,
+                "order": 61
+            },
+            {
+                "id": "Z6II9FCI",
+                "name": "Nhìn Em Vu Quy",
+                "title": "Nhìn Em Vu Quy",
+                "code": "kmxmTkLBCZQbdxWymyvGZHykhhsvkuSbF",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZDZFZD",
+                "artists": [
+                    {
+                        "name": "Huỳnh Văn",
+                        "link": "/nghe-si/Nhin-Em-Vu-Quy-Huynh-Van"
+                    }
+                ],
+                "artists_names": "Huỳnh Văn",
+                "performer": "Huỳnh Văn",
+                "type": "audio",
+                "link": "/bai-hat/Nhin-Em-Vu-Quy-Huynh-Van/Z6II9FCI.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/5/5/7/4/55743097d1dd998fdf3ce6935e29ff0c.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/c/8/d/e/c8de28651b51e3275a1c81abbbab453d.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 262,
+                "total": 1375,
+                "rank_num": 1,
+                "rank_status": "up",
+                "position": 62,
+                "order": 62
+            },
+            {
+                "id": "Z6WU6WUD",
+                "name": "906090",
+                "title": "906090",
+                "code": "LHxnyLkBsdckxVsyHybHZnykghNbZuAFv",
+                "content_owner": 10115,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B66UUDI",
+                "artists": [
+                    {
+                        "name": "Tóc Tiên",
+                        "link": "/nghe-si/906090-Toc-Tien-Mew-Amazing"
+                    }
+                ],
+                "artists_names": "Tóc Tiên, Mew Amazing",
+                "performer": "Tóc Tiên, Mew Amazing",
+                "type": "audio",
+                "link": "/bai-hat/906090-Toc-Tien-Mew-Amazing/Z6WU6WUD.html#video-clip",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/0/e/b/9/0eb9e6ef89936309156aec8ce6b443f4.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/e/e/1/1ee19270545210d8de618e94ee6f1f14.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "mv_link": "/video-clip/906090-Toc-Tien-Mew-Amazing/Z6WU6WUD.html",
+                "duration": 209,
+                "total": 1371,
+                "rank_num": 4,
+                "rank_status": "up",
+                "position": 63,
+                "order": 63
+            },
+            {
+                "id": "ZZE886WC",
+                "name": "Ngôi Sao Cô Đơn",
+                "title": "Ngôi Sao Cô Đơn",
+                "code": "kmxGtkLBdzpccgGymybHLmtZhgaFZEzDv",
+                "content_owner": 10119,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BU9EZB6",
+                "artists": [
+                    {
+                        "name": "Jack - J97",
+                        "link": "/nghe-si/Ngoi-Sao-Co-Don-Jack-J97"
+                    }
+                ],
+                "artists_names": "Jack - J97",
+                "performer": "Jack - J97",
+                "type": "audio",
+                "link": "/bai-hat/Ngoi-Sao-Co-Don-Jack-J97/ZZE886WC.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/b/c/d/1/bcd1d7667fa681a655c051ffa1c2b63f.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/e/2/e/b/e2eb2e4c19e54ab61871ce9f04ac339f.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 276,
+                "total": 1368,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 64,
+                "order": 64
+            },
+            {
+                "id": "Z6W8B667",
+                "name": "Cưới Hông Chốt Nha",
+                "title": "Cưới Hông Chốt Nha",
+                "code": "LmJGTZLVsgCQpZLyHtFGZGtkgCsvkRADb",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B688ODU",
+                "artists": [
+                    {
+                        "name": "Đỗ Thành Duy",
+                        "link": "/nghe-si/Cuoi-Hong-Chot-Nha-Do-Thanh-Duy-NH4T"
+                    }
+                ],
+                "artists_names": "Đỗ Thành Duy, NH4T",
+                "performer": "Đỗ Thành Duy, NH4T",
+                "type": "audio",
+                "link": "/bai-hat/Cuoi-Hong-Chot-Nha-Do-Thanh-Duy-NH4T/Z6W8B667.html",
+                "lyric": "",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/c/2/7/1c27151c358fe79b08fd0ba062bc77e3.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 252,
+                "total": 1362,
+                "rank_num": 4,
+                "rank_status": "up",
+                "position": 65,
+                "order": 65
+            },
+            {
+                "id": "Z6II9CBZ",
+                "name": "Nên Duyên Nên Phận",
+                "title": "Nên Duyên Nên Phận",
+                "code": "ZnxntZZVgZWZCHpymyDGkHykghaFLizbF",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZDZD8E",
+                "artists": [
+                    {
+                        "name": "Đỗ Thành Duy",
+                        "link": "/nghe-si/Nen-Duyen-Nen-Phan-Do-Thanh-Duy-NH4T"
+                    }
+                ],
+                "artists_names": "Đỗ Thành Duy, NH4T",
+                "performer": "Đỗ Thành Duy, NH4T",
+                "type": "audio",
+                "link": "/bai-hat/Nen-Duyen-Nen-Phan-Do-Thanh-Duy-NH4T/Z6II9CBZ.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/d/9/5/e/d95e750dab1f8a342374e86c474762b7.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/4/5/5/145580a25427e68bb0d5f4c61ad7c5a8.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 215,
+                "total": 1353,
+                "rank_num": 6,
+                "rank_status": "down",
+                "position": 66,
+                "order": 66
+            },
+            {
+                "id": "Z60U0Z6Z",
+                "name": "Từng Là Của Nhau",
+                "title": "Từng Là Của Nhau",
+                "code": "LmcHTZZBWbCnimktHybmZHTkghsbZElDF",
+                "content_owner": 10115,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZ7ZI66",
+                "artists": [
+                    {
+                        "name": "Bảo Anh",
+                        "link": "/nghe-si/Tung-La-Cua-Nhau-Bao-Anh-Tao"
+                    }
+                ],
+                "artists_names": "Bảo Anh, Táo",
+                "performer": "Bảo Anh, Táo",
+                "type": "audio",
+                "link": "/bai-hat/Tung-La-Cua-Nhau-Bao-Anh-Tao/Z60U0Z6Z.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/c/6/0/6/c6063a910ff862bc6cb419e700c3bd6b.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/f/4/6/df46a2117fff0cb1090d3665ac595f12.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 269,
+                "total": 1334,
+                "rank_num": 1,
+                "rank_status": "up",
+                "position": 67,
+                "order": 67
+            },
+            {
+                "id": "ZZDBZWZI",
+                "name": "Hết Sảy Miền Tây",
+                "title": "Hết Sảy Miền Tây",
+                "code": "LnJHtkkBbQiBhLaymtFHZmyZhCsDLRAbb",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BUOIF0D",
+                "artists": [
+                    {
+                        "name": "Tracy Thảo My",
+                        "link": "/nghe-si/Het-Say-Mien-Tay-Tracy-Thao-My"
+                    }
+                ],
+                "artists_names": "Tracy Thảo My",
+                "performer": "Tracy Thảo My",
+                "type": "audio",
+                "link": "/bai-hat/Het-Say-Mien-Tay-Tracy-Thao-My/ZZDBZWZI.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/1/f/b/a/1fbac0c8584e0fc865837770e70bfba0.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/9/a/0/a/9a0af1b65bd4985149959020f0a0bb3e.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 240,
+                "total": 1320,
+                "rank_num": 3,
+                "rank_status": "down",
+                "position": 68,
+                "order": 68
+            },
+            {
+                "id": "ZZFDA0WD",
+                "name": "Em Là",
+                "title": "Em Là",
+                "code": "ZHxntZZdzJzkasdynybmknTkXCNFkiAFF",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZUUWW0",
+                "artists": [
+                    {
+                        "name": "MONO",
+                        "link": "/nghe-si/Em-La-MONO-Onionn"
+                    }
+                ],
+                "artists_names": "MONO, Onionn",
+                "performer": "MONO, Onionn",
+                "type": "audio",
+                "link": "/bai-hat/Em-La-MONO-Onionn/ZZFDA0WD.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/a/4/f/b/a4fb91142c4817f5d8b224dd863b3072.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/e/7/7/2/e772358978fef8a02eefd34f6a4ca6f3.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 197,
+                "total": 1317,
+                "rank_num": 3,
+                "rank_status": "up",
+                "position": 69,
+                "order": 69
+            },
+            {
+                "id": "ZZFC6DZD",
+                "name": "Yêu Đừng Có Nhây",
+                "title": "Yêu Đừng Có Nhây",
+                "code": "LHcGTkLdANCVbDRTHTFnkHTZhCsFLRzbD",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZOBIF7",
+                "artists": [
+                    {
+                        "name": "Hana Cẩm Tiên",
+                        "link": "/nghe-si/Yeu-Dung-Co-Nhay-Hana-Cam-Tien-TVk"
+                    }
+                ],
+                "artists_names": "Hana Cẩm Tiên, TVk",
+                "performer": "Hana Cẩm Tiên, TVk",
+                "type": "audio",
+                "link": "/bai-hat/Yeu-Dung-Co-Nhay-Hana-Cam-Tien-TVk/ZZFC6DZD.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/5/2/9/4/5294c68a73b4d2f8c3fd6db08d9b7351.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/c/5/1/3/c513eb8071039b614ba3d337d59460ae.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 186,
+                "total": 1293,
+                "rank_num": 4,
+                "rank_status": "down",
+                "position": 70,
+                "order": 70
+            },
+            {
+                "id": "ZZE06D8D",
+                "name": "Xuất Giá",
+                "title": "Xuất Giá",
+                "code": "kncHyZkBDRvcvCRtGTvmZmykhhsbLiSbD",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BUZ8EEU",
+                "artists": [
+                    {
+                        "name": "Keyo",
+                        "link": "/nghe-si/Xuat-Gia-Keyo"
+                    }
+                ],
+                "artists_names": "Keyo",
+                "performer": "Keyo",
+                "type": "audio",
+                "link": "/bai-hat/Xuat-Gia-Keyo/ZZE06D8D.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/9/8/d/5/98d5db7bde2d799fa93cf9481b26f2c6.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/4/9/8/6/4986aeeced8c976748855272d15d5e7c.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 258,
+                "total": 1247,
+                "rank_num": 2,
+                "rank_status": "up",
+                "position": 71,
+                "order": 71
+            },
+            {
+                "id": "Z6WIIWCE",
+                "name": "Nói Yêu Thương Chỉ Là Thừa",
+                "title": "Nói Yêu Thương Chỉ Là Thừa",
+                "code": "LmJmTZkBaZhAcaJTntFGkGyLgCsbZiSvb",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B6UA86A",
+                "artists": [
+                    {
+                        "name": "Dee Trần",
+                        "link": "/nghe-si/Noi-Yeu-Thuong-Chi-La-Thua-Dee-Tran"
+                    }
+                ],
+                "artists_names": "Dee Trần",
+                "performer": "Dee Trần",
+                "type": "audio",
+                "link": "/bai-hat/Noi-Yeu-Thuong-Chi-La-Thua-Dee-Tran/Z6WIIWCE.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/f/d/9/5/fd95676d4348b226d2a760d0873e1bf7.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/c/f/f/1cff87b474fa4339f07f131a51ec42f7.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 272,
+                "total": 1245,
+                "rank_num": 2,
+                "rank_status": "down",
+                "position": 72,
+                "order": 72
+            },
+            {
+                "id": "ZZBAFF60",
+                "name": "Xin Má Rước Dâu",
+                "title": "Xin Má Rước Dâu",
+                "code": "LmcHykZVmAaQbBFtHybHLntZhCNFLRlFb",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BOU8CIE",
+                "artists": [
+                    {
+                        "name": "Diệu Kiên",
+                        "link": "/nghe-si/Xin-Ma-Ruoc-Dau-Dieu-Kien"
+                    }
+                ],
+                "artists_names": "Diệu Kiên",
+                "performer": "Diệu Kiên",
+                "type": "audio",
+                "link": "/bai-hat/Xin-Ma-Ruoc-Dau-Dieu-Kien/ZZBAFF60.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/5/d/f/2/5df2018fe6b4aaf1a67952d2fb44c9c6.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/c/4/4/c/c44c3822217d8775780358df759f126d.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 190,
+                "total": 1198,
+                "rank_num": 2,
+                "rank_status": "down",
+                "position": 73,
+                "order": 73
+            },
+            {
+                "id": "ZZECU8U8",
+                "name": "lời tạm biệt chưa nói",
+                "title": "lời tạm biệt chưa nói",
+                "code": "kGxHTLZVBaGpLXHymTvnLGtZCgsDZuzDF",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BUBEFO7",
+                "artists": [
+                    {
+                        "name": "GREY D",
+                        "link": "/nghe-si/loi-tam-biet-chua-noi-GREY-D-Orange"
+                    }
+                ],
+                "artists_names": "GREY D, Orange",
+                "performer": "GREY D, Orange",
+                "type": "audio",
+                "link": "/bai-hat/loi-tam-biet-chua-noi-GREY-D-Orange/ZZECU8U8.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/d/0/a/4/d0a47287a3b67517becb0c55e1cdd79f.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/0/f/5/d0f5790631b016b46590a388ba64043c.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 259,
+                "total": 1153,
+                "rank_num": 1,
+                "rank_status": "up",
+                "position": 74,
+                "order": 74
+            },
+            {
+                "id": "Z6WU7DFO",
+                "name": "Người Có Còn Thương",
+                "title": "Người Có Còn Thương",
+                "code": "LHxmyZkdaBxxikWtnyvGLnyZXCNbZuSbb",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B66ZIDB",
+                "artists": [
+                    {
+                        "name": "Minh Vương M4U",
+                        "link": "/nghe-si/Nguoi-Co-Con-Thuong-Minh-Vuong-M4U-Thuong-Vo-ACV"
+                    }
+                ],
+                "artists_names": "Minh Vương M4U, Thương Võ, ACV",
+                "performer": "Minh Vương M4U, Thương Võ, ACV",
+                "type": "audio",
+                "link": "/bai-hat/Nguoi-Co-Con-Thuong-Minh-Vuong-M4U-Thuong-Vo-ACV/Z6WU7DFO.html#video-clip",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/2/3/c/0/23c0e2a04fd7f1ffb61b259cfe6dd57e.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/5/5/8/c/558cf522789d57cdf87b5933235e2880.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "mv_link": "/video-clip/Nguoi-Co-Con-Thuong-Minh-Vuong-M4U-Thuong-Vo-ACV/Z6WU7DFO.html",
+                "duration": 320,
+                "total": 1134,
+                "rank_num": 6,
+                "rank_status": "up",
+                "position": 75,
+                "order": 75
+            },
+            {
+                "id": "Z6I76A7C",
+                "name": "Tự Tình 2",
+                "title": "Tự Tình 2",
+                "code": "kmxmykZBCWBkRCStmyFmknykChNbkElbb",
+                "content_owner": 10115,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B60IFE6",
+                "artists": [
+                    {
+                        "name": "Trung Quân Idol",
+                        "link": "/nghe-si/Tu-Tinh-2-Trung-Quan-Idol"
+                    }
+                ],
+                "artists_names": "Trung Quân Idol",
+                "performer": "Trung Quân Idol",
+                "type": "audio",
+                "link": "/bai-hat/Tu-Tinh-2-Trung-Quan-Idol/Z6I76A7C.html#video-clip",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/7/0/f/8/70f8fff78b7ee0e7add83dac266d06d2.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/f/8/7/df87f64e7ede2f81e9adb61ce03129af.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "mv_link": "/video-clip/Tu-Tinh-2-Trung-Quan-Idol/Z6I76A7C.html",
+                "duration": 291,
+                "total": 1129,
+                "rank_num": 2,
+                "rank_status": "down",
+                "position": 76,
+                "order": 76
+            },
+            {
+                "id": "Z6WOEW7W",
+                "name": "Lời Nói Dối Sau Cùng",
+                "title": "Lời Nói Dối Sau Cùng",
+                "code": "ZmcGykZdaBziZmCtGyFmkHyLhXaFZizDb",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B660ZW6",
+                "artists": [
+                    {
+                        "name": "Vicky Nhung",
+                        "link": "/nghe-si/Loi-Noi-Doi-Sau-Cung-Vicky-Nhung"
+                    }
+                ],
+                "artists_names": "Vicky Nhung",
+                "performer": "Vicky Nhung",
+                "type": "audio",
+                "link": "/bai-hat/Loi-Noi-Doi-Sau-Cung-Vicky-Nhung/Z6WOEW7W.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/0/4/4/0/0440869053ea8b9f79b4f8f51041e52e.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/8/9/7/0897d0b058f77ad7b5b4d573646afe91.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 288,
+                "total": 1115,
+                "rank_num": 2,
+                "rank_status": "up",
+                "position": 77,
+                "order": 77
+            },
+            {
+                "id": "Z6WZOCCZ",
+                "name": "Hối Duyên",
+                "title": "Hối Duyên",
+                "code": "kHJGtZLBaSdaahQtGybHknyLXCsFkRlvD",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B66AFI0",
+                "artists": [
+                    {
+                        "name": "Masew",
+                        "link": "/nghe-si/Hoi-Duyen-Masew-Khoi-Vu-Great"
+                    }
+                ],
+                "artists_names": "Masew, Khoi Vu, Great",
+                "performer": "Masew, Khoi Vu, Great",
+                "type": "audio",
+                "link": "/bai-hat/Hoi-Duyen-Masew-Khoi-Vu-Great/Z6WZOCCZ.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/6/8/0/5/6805708c09dfe9198581958f1199e7cc.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/8/2/9/a/829a8e27aff8bd84180f4b81dc576f0c.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 243,
+                "total": 1106,
+                "rank_num": 1,
+                "rank_status": "down",
+                "position": 78,
+                "order": 78
+            },
+            {
+                "id": "Z6IBABBZ",
+                "name": "Tình Dang Dở",
+                "title": "Tình Dang Dở",
+                "code": "ZHcnyZLdCxLmxHptmtvHkHtkhgNFkRSvF",
+                "content_owner": 10119,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B6O6WZO",
+                "artists": [
+                    {
+                        "name": "Đình Dũng",
+                        "link": "/nghe-si/Tinh-Dang-Do-Dinh-Dung-ACV"
+                    }
+                ],
+                "artists_names": "Đình Dũng, ACV",
+                "performer": "Đình Dũng, ACV",
+                "type": "audio",
+                "link": "/bai-hat/Tinh-Dang-Do-Dinh-Dung-ACV/Z6IBABBZ.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/0/1/0/5/0105dd1b9233d14b68ce454316a776f8.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/8/1/a/d81aed751321e777023ccc477a302224.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 314,
+                "total": 1100,
+                "rank_num": 3,
+                "rank_status": "down",
+                "position": 79,
+                "order": 79
+            },
+            {
+                "id": "Z6ICZABU",
+                "name": "Vừa Lòng Em Chưa",
+                "title": "Vừa Lòng Em Chưa",
+                "code": "LHxHyLkdhJQpXnSyHTFnkHTkCXavLRzvF",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B6WZAFD",
+                "artists": [
+                    {
+                        "name": "Lâm Chấn Khang",
+                        "link": "/nghe-si/Vua-Long-Em-Chua-Lam-Chan-Khang-NVNP"
+                    }
+                ],
+                "artists_names": "Lâm Chấn Khang, NVNP",
+                "performer": "Lâm Chấn Khang, NVNP",
+                "type": "audio",
+                "link": "/bai-hat/Vua-Long-Em-Chua-Lam-Chan-Khang-NVNP/Z6ICZABU.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/c/7/b/9/c7b913c2a59293d44c0ec9035f2d4f99.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/c/7/c/0/c7c01e711dd8231e1c562d30f70ab712.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 284,
+                "total": 1099,
+                "rank_num": 4,
+                "rank_status": "up",
+                "position": 80,
+                "order": 80
+            },
+            {
+                "id": "Z6W8AD90",
+                "name": "Giấc Mơ Đẹp",
+                "title": "Giấc Mơ Đẹp",
+                "code": "ZmcmyLkdaXCdvzJtmtFmLmTLChaDLuADD",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B6AIZZE",
+                "artists": [
+                    {
+                        "name": "Nguyễn Trọng Tài",
+                        "link": "/nghe-si/Giac-Mo-Dep-Nguyen-Trong-Tai"
+                    }
+                ],
+                "artists_names": "Nguyễn Trọng Tài",
+                "performer": "Nguyễn Trọng Tài",
+                "type": "audio",
+                "link": "/bai-hat/Giac-Mo-Dep-Nguyen-Trong-Tai/Z6W8AD90.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/c/e/c/b/cecbf6f38dc3f6213043bb2f99d35c07.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/5/3/5/a/535a6b4f34045d2b83a73eabc6358b88.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 187,
+                "total": 1096,
+                "rank_num": 1,
+                "rank_status": "up",
+                "position": 81,
+                "order": 81
+            },
+            {
+                "id": "Z6W887AW",
+                "name": "Lời Có Cánh",
+                "title": "Lời Có Cánh",
+                "code": "ZmcHtZLdshpVQdJynybHZmykXhsvLuzbv",
+                "content_owner": 10115,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "SB686BC9",
+                "artists": [
+                    {
+                        "name": "OSAD",
+                        "link": "/nghe-si/Loi-Co-Canh-OSAD"
+                    }
+                ],
+                "artists_names": "OSAD",
+                "performer": "OSAD",
+                "type": "audio",
+                "link": "/bai-hat/Loi-Co-Canh-OSAD/Z6W887AW.html#video-clip",
+                "lyric": "",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/5/2/9/2/5292d3f5146bd192c58139935cc6dce7.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "mv_link": "/video-clip/Loi-Co-Canh-OSAD/Z6W887AW.html",
+                "duration": 169,
+                "total": 1022,
+                "rank_num": 3,
+                "rank_status": "up",
+                "position": 82,
+                "order": 82
+            },
+            {
+                "id": "ZZECWF6B",
+                "name": "ThichThich",
+                "title": "ThichThich",
+                "code": "ZGcmtZkdVXiJNEQtHtFGkHyZCgaDkuzDF",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BUBE0OZ",
+                "artists": [
+                    {
+                        "name": "Phương Ly",
+                        "link": "/nghe-si/ThichThich-Phuong-Ly"
+                    }
+                ],
+                "artists_names": "Phương Ly",
+                "performer": "Phương Ly",
+                "type": "audio",
+                "link": "/bai-hat/ThichThich-Phuong-Ly/ZZECWF6B.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/9/5/4/2/954209d663f208922d2f8154ddcf3438.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/e/b/5/6/eb5692233f5bc2a24d20257430179e3c.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 242,
+                "total": 1016,
+                "rank_num": 4,
+                "rank_status": "up",
+                "position": 83,
+                "order": 83
+            },
+            {
+                "id": "Z60BO68C",
+                "name": "Em Là Nhất Miền Tây",
+                "title": "Em Là Nhất Miền Tây",
+                "code": "ZmcHyLLVWsdbvBCTGybGkmykChaDkESFb",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZAEZZO",
+                "artists": [
+                    {
+                        "name": "Võ Lê Mi",
+                        "link": "/nghe-si/Em-La-Nhat-Mien-Tay-Vo-Le-Mi-Jin-Tuan-Nam"
+                    }
+                ],
+                "artists_names": "Võ Lê Mi, Jin Tuấn Nam",
+                "performer": "Võ Lê Mi, Jin Tuấn Nam",
+                "type": "audio",
+                "link": "/bai-hat/Em-La-Nhat-Mien-Tay-Vo-Le-Mi-Jin-Tuan-Nam/Z60BO68C.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/9/7/8/e/978ea06460647606fa355dd89eaa59e8.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/a/4/d/d/a4dd14eda17661d18ea543b15965e735.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 187,
+                "total": 1015,
+                "rank_num": 4,
+                "rank_status": "down",
+                "position": 84,
+                "order": 84
+            },
+            {
+                "id": "Z6IIBU7F",
+                "name": "Và Ngày Nào Đó",
+                "title": "Và Ngày Nào Đó",
+                "code": "LnJGykkdhkQsCiQyGybHkntZCXabLiSvb",
+                "content_owner": 10115,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZD69WU",
+                "artists": [
+                    {
+                        "name": "Trung Quân Idol",
+                        "link": "/nghe-si/Va-Ngay-Nao-Do-Trung-Quan-Idol"
+                    }
+                ],
+                "artists_names": "Trung Quân Idol",
+                "performer": "Trung Quân Idol",
+                "type": "audio",
+                "link": "/bai-hat/Va-Ngay-Nao-Do-Trung-Quan-Idol/Z6IIBU7F.html#video-clip",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/3/7/b/d/37bdbd1c317a64938c0af5fb25b7905c.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/f/c/9/dfc91104ec303286b2d6ba314842ab05.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "mv_link": "/video-clip/Va-Ngay-Nao-Do-Trung-Quan-Idol/Z6IIBU7F.html",
+                "duration": 262,
+                "total": 1013,
+                "rank_num": 8,
+                "rank_status": "up",
+                "position": 85,
+                "order": 85
+            },
+            {
+                "id": "Z6W9OD8A",
+                "name": "Miền Trung Yêu Ơi",
+                "title": "Miền Trung Yêu Ơi",
+                "code": "ZmxGtZZdasHGLnCymyFmkmTZgCNbkESvD",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "SB68C798",
+                "artists": [
+                    {
+                        "name": "Thái Học",
+                        "link": "/nghe-si/Mien-Trung-Yeu-Oi-Thai-Hoc"
+                    }
+                ],
+                "artists_names": "Thái Học",
+                "performer": "Thái Học",
+                "type": "audio",
+                "link": "/bai-hat/Mien-Trung-Yeu-Oi-Thai-Hoc/Z6W9OD8A.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/3/b/1/e/3b1ee2458f00d1340973db29a5464bc0.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/e/6/b/c/e6bc03cd2b8c8f81415dccdfbc70e1ee.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 337,
+                "total": 1004,
+                "rank_num": 3,
+                "rank_status": "down",
+                "position": 86,
+                "order": 86
+            },
+            {
+                "id": "Z6WZDAUD",
+                "name": "Rước Nàng",
+                "title": "Rước Nàng",
+                "code": "kHcmTZkBsAaJHidymybHkmyLCXabLEAFb",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "SB66FC8F",
+                "artists": [
+                    {
+                        "name": "BÌN",
+                        "link": "/nghe-si/Ruoc-Nang-BIN"
+                    }
+                ],
+                "artists_names": "BÌN",
+                "performer": "BÌN",
+                "type": "audio",
+                "link": "/bai-hat/Ruoc-Nang-BIN/Z6WZDAUD.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/1/e/d/1/1ed12820f05d9ac57cc2aa968f5cb366.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/4/4/3/c/443cc9b361668f2fa29de0c91e766fdb.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 181,
+                "total": 993,
+                "rank_num": 9,
+                "rank_status": "down",
+                "position": 87,
+                "order": 87
+            },
+            {
+                "id": "Z6WZWID0",
+                "name": "Đi Qua Thương Nhớ (Live)",
+                "title": "Đi Qua Thương Nhớ (Live)",
+                "code": "LHJHTLkBsSBHxCltntFmkHTLXgNDZiAbF",
+                "content_owner": 10115,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "SB669E98",
+                "artists": [
+                    {
+                        "name": "Hà Nhi",
+                        "link": "/nghe-si/Di-Qua-Thuong-Nho-Live-Ha-Nhi"
+                    }
+                ],
+                "artists_names": "Hà Nhi",
+                "performer": "Hà Nhi",
+                "type": "audio",
+                "link": "/bai-hat/Di-Qua-Thuong-Nho-Live-Ha-Nhi/Z6WZWID0.html",
+                "lyric": "",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/f/9/c/2/f9c22cde44f9c731c8c8801a37e21e86.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "duration": 283,
+                "total": 989,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 88,
+                "order": 88
+            },
+            {
+                "id": "Z6WIU9OE",
+                "name": "Replay trên con Guây",
+                "title": "Replay trên con Guây",
+                "code": "kHxHtZkdsksJJkztHtDHZmykXXNFZRzDD",
+                "content_owner": 10119,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B6UCOE7",
+                "artists": [
+                    {
+                        "name": "Phúc Du",
+                        "link": "/nghe-si/Replay-tren-con-Guay-Phuc-Du-Dan-Ni"
+                    }
+                ],
+                "artists_names": "Phúc Du, Đan Ni",
+                "performer": "Phúc Du, Đan Ni",
+                "type": "audio",
+                "link": "/bai-hat/Replay-tren-con-Guay-Phuc-Du-Dan-Ni/Z6WIU9OE.html#video-clip",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/3/e/6/4/3e64f0b9e12df9aa5600651ac51a4e9e.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/3/7/6/1376b7c7cd8557355419a3f158e2be10.jpg?fs=MTY2NzIwODYyMjU0OHx3ZWJWNHw",
+                "mv_link": "/video-clip/Replay-tren-con-Guay-Phuc-Du-Dan-Ni/Z6WIU9OE.html",
+                "duration": 222,
+                "total": 982,
+                "rank_num": 3,
+                "rank_status": "up",
+                "position": 89,
+                "order": 89
+            },
+            {
+                "id": "Z6WDUC6C",
+                "name": "Một Thời Đã Xa (25th Làn Sóng Xanh)",
+                "title": "Một Thời Đã Xa (25th Làn Sóng Xanh)",
+                "code": "kmcmTkLBaEhgHgHTmyFmZmTZXhNFLiSbD",
+                "content_owner": 10117,
+                "isoffical": true,
+                "isWorldWide": false,
+                "playlist_id": "6B6A8Z99",
+                "artists": [
+                    {
+                        "name": "Đức Phúc",
+                        "link": "/nghe-si/Mot-Thoi-Da-Xa-25th-Lan-Song-Xanh-Duc-Phuc"
+                    }
+                ],
+                "artists_names": "Đức Phúc",
+                "performer": "Đức Phúc",
+                "type": "audio",
+                "link": "/bai-hat/Mot-Thoi-Da-Xa-25th-Lan-Song-Xanh-Duc-Phuc/Z6WDUC6C.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/f/a/0/6/fa0661ebfa7d6d79b397825f1b6c0b48.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/f/5/2/4/f5241dd11f826be7317df3d186e17343.jpg?fs=MTY2NzIwODYyMjU0OXx3ZWJWNHw",
+                "duration": 230,
+                "total": 938,
+                "rank_num": 4,
+                "rank_status": "up",
+                "position": 90,
+                "order": 90
+            },
+            {
+                "id": "Z6IUD79A",
+                "name": "Mình Hãy Ngừng Lại Em Nhé",
+                "title": "Mình Hãy Ngừng Lại Em Nhé",
+                "code": "LnxHyZLBgBCdFRnyHtDHkmTLXCsvkiSbD",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZEEFOD",
+                "artists": [
+                    {
+                        "name": "Văn Võ Ngọc Nhân",
+                        "link": "/nghe-si/Minh-Hay-Ngung-Lai-Em-Nhe-Van-Vo-Ngoc-Nhan"
+                    }
+                ],
+                "artists_names": "Văn Võ Ngọc Nhân",
+                "performer": "Văn Võ Ngọc Nhân",
+                "type": "audio",
+                "link": "/bai-hat/Minh-Hay-Ngung-Lai-Em-Nhe-Van-Vo-Ngoc-Nhan/Z6IUD79A.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/6/8/6/6/6866c65a318e014adb544033b3c1bdb5.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/4/7/9/d/479d99cf154d6e0669a861dfa96f6b4b.jpg?fs=MTY2NzIwODYyMjU0OXx3ZWJWNHw",
+                "duration": 340,
+                "total": 927,
+                "rank_num": 5,
+                "rank_status": "down",
+                "position": 91,
+                "order": 91
+            },
+            {
+                "id": "Z60D76BU",
+                "name": "Có Duyên Không Phận",
+                "title": "Có Duyên Không Phận",
+                "code": "LHcmyZkdpcNisBbTmTbmkGTZggaFZizbv",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZB9WA9",
+                "artists": [
+                    {
+                        "name": "M-Roy",
+                        "link": "/nghe-si/Co-Duyen-Khong-Phan-M-Roy-JulianK-HOA-HONG-DAI-MUSIC"
+                    }
+                ],
+                "artists_names": "M-Roy, JulianK, HOA HỒNG DẠI MUSIC",
+                "performer": "M-Roy, JulianK, HOA HỒNG DẠI MUSIC",
+                "type": "audio",
+                "link": "/bai-hat/Co-Duyen-Khong-Phan-M-Roy-JulianK-HOA-HONG-DAI-MUSIC/Z60D76BU.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/2/8/4/4/28448c52ae7f4314a4a2bbcda372ff47.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/0/7/5/d075fb56d99c43e8dd05a5c039586212.jpg?fs=MTY2NzIwODYyMjU0OXx3ZWJWNHw",
+                "duration": 232,
+                "total": 920,
+                "rank_num": 2,
+                "rank_status": "down",
+                "position": 92,
+                "order": 92
+            },
+            {
+                "id": "Z6I76ID6",
+                "name": "Em Buông",
+                "title": "Em Buông",
+                "code": "LHcmyLZdhWbuNQHyHtFGZmtLXXaDLilDF",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B60IBO0",
+                "artists": [
+                    {
+                        "name": "Hương Giang",
+                        "link": "/nghe-si/Em-Buong-Huong-Giang"
+                    }
+                ],
+                "artists_names": "Hương Giang",
+                "performer": "Hương Giang",
+                "type": "audio",
+                "link": "/bai-hat/Em-Buong-Huong-Giang/Z6I76ID6.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/c/1/3/7/c137c57059757cd03b22e4ee8130fdde.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/b/2/5/d/b25d4a111719a18fbe5cbb0bdabef4bd.jpg?fs=MTY2NzIwODYyMjU0OXx3ZWJWNHw",
+                "duration": 241,
+                "total": 914,
+                "rank_num": 4,
+                "rank_status": "down",
+                "position": 93,
+                "order": 93
+            },
+            {
+                "id": "Z6IWCF77",
+                "name": "Shut Down",
+                "title": "Shut Down",
+                "code": "ZGxnyLLdCbdnLdWyGtDmZmTkChNFLiSFF",
+                "content_owner": 10024,
+                "isoffical": true,
+                "isWorldWide": false,
+                "playlist_id": "6BZDFOOE",
+                "artists": [
+                    {
+                        "name": "BLACKPINK",
+                        "link": "/nghe-si/Shut-Down-BLACKPINK"
+                    }
+                ],
+                "artists_names": "BLACKPINK",
+                "performer": "BLACKPINK",
+                "type": "audio",
+                "link": "/bai-hat/Shut-Down-BLACKPINK/Z6IWCF77.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/7/c/0/f/7c0f3df7e67dbf5554e03001ee9c758d.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/c/6/c/0/c6c057aa53bafcb2858e1000dd2357ea.jpg?fs=MTY2NzIwODYyMjU0OXx3ZWJWNHw",
+                "duration": 176,
+                "total": 897,
+                "rank_num": 2,
+                "rank_status": "up",
+                "position": 94,
+                "order": 94
+            },
+            {
+                "id": "ZZDA60O8",
+                "name": "Một Ngàn Nỗi Đau",
+                "title": "Một Ngàn Nỗi Đau",
+                "code": "kmxHyLkBvWBLhzmymtFHZGtLXgsbkiAFv",
+                "content_owner": 10115,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BUWA9WW",
+                "artists": [
+                    {
+                        "name": "Văn Mai Hương",
+                        "link": "/nghe-si/Mot-Ngan-Noi-Dau-Van-Mai-Huong-Hua-Kim-Tuyen"
+                    }
+                ],
+                "artists_names": "Văn Mai Hương, Hứa Kim Tuyền",
+                "performer": "Văn Mai Hương, Hứa Kim Tuyền",
+                "type": "audio",
+                "link": "/bai-hat/Mot-Ngan-Noi-Dau-Van-Mai-Huong-Hua-Kim-Tuyen/ZZDA60O8.html#video-clip",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/4/b/5/d/4b5df4ec3736999181cb39591a39e103.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/8/8/5/0885c3d5fa3ad0b1322f40257aa6fe75.jpg?fs=MTY2NzIwODYyMjU0OXx3ZWJWNHw",
+                "mv_link": "/video-clip/Mot-Ngan-Noi-Dau-Van-Mai-Huong-Hua-Kim-Tuyen/ZZDA60O8.html",
+                "duration": 322,
+                "total": 893,
+                "rank_num": 2,
+                "rank_status": "up",
+                "position": 95,
+                "order": 95
+            },
+            {
+                "id": "Z6I7ZEEU",
+                "name": "Anh Yêu Em Cực",
+                "title": "Anh Yêu Em Cực",
+                "code": "ZmxmTLZVCpFxEuhyGtFnZGykXCsFLiSFb",
+                "content_owner": 10119,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "SB66E77C",
+                "artists": [
+                    {
+                        "name": "Linh Thộn",
+                        "link": "/nghe-si/Anh-Yeu-Em-Cuc-Linh-Thon-Minh-Vu"
+                    }
+                ],
+                "artists_names": "Linh Thộn, Minh Vũ",
+                "performer": "Linh Thộn, Minh Vũ",
+                "type": "audio",
+                "link": "/bai-hat/Anh-Yeu-Em-Cuc-Linh-Thon-Minh-Vu/Z6I7ZEEU.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/4/8/2/0/4820a4919a268f18d9feedde18136035.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/a/2/7/da27fa4e41d5811f2314838760b23685.jpg?fs=MTY2NzIwODYyMjU0OXx3ZWJWNHw",
+                "duration": 146,
+                "total": 888,
+                "rank_num": 4,
+                "rank_status": "up",
+                "position": 96,
+                "order": 96
+            },
+            {
+                "id": "Z6W086FW",
+                "name": "Ước Mơ Của Mẹ",
+                "title": "Ước Mơ Của Mẹ",
+                "code": "ZmJmyLkdsZbRmNltntFHkmyLChsbZRzDb",
+                "content_owner": 10115,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6B6U66F9",
+                "artists": [
+                    {
+                        "name": "Thảo Trang",
+                        "link": "/nghe-si/Uoc-Mo-Cua-Me-Thao-Trang"
+                    }
+                ],
+                "artists_names": "Thảo Trang",
+                "performer": "Thảo Trang",
+                "type": "audio",
+                "link": "/bai-hat/Uoc-Mo-Cua-Me-Thao-Trang/Z6W086FW.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/e/3/1/6/e316def352e037e1dfbe62d3c2419fba.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/9/1/d/6/91d6933938b740d8109d8ae7d40312c2.jpg?fs=MTY2NzIwODYyMjU0OXx3ZWJWNHw",
+                "duration": 268,
+                "total": 879,
+                "rank_num": 6,
+                "rank_status": "down",
+                "position": 97,
+                "order": 97
+            },
+            {
+                "id": "Z6IIBFDA",
+                "name": "Chẳng Thể Nghe Con Tim",
+                "title": "Chẳng Thể Nghe Con Tim",
+                "code": "kmJntZZdhZCngGFtntFmZGykXgaFkESvD",
+                "content_owner": 10120,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZD6DDO",
+                "artists": [
+                    {
+                        "name": "Phát Huy T4",
+                        "link": "/nghe-si/Chang-The-Nghe-Con-Tim-Phat-Huy-T4"
+                    }
+                ],
+                "artists_names": "Phát Huy T4",
+                "performer": "Phát Huy T4",
+                "type": "audio",
+                "link": "/bai-hat/Chang-The-Nghe-Con-Tim-Phat-Huy-T4/Z6IIBFDA.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/4/5/8/f/458f455271276f0e8addd6ea1a08cdcd.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/a/b/4/8/ab48a9c1ac2ad10aea1a4e2bc8857993.jpg?fs=MTY2NzIwODYyMjU0OXx3ZWJWNHw",
+                "duration": 308,
+                "total": 865,
+                "rank_num": 3,
+                "rank_status": "down",
+                "position": 98,
+                "order": 98
+            },
+            {
+                "id": "Z6WBECU9",
+                "name": "For the Night",
+                "title": "For the Night",
+                "code": "LHxHtLLBNJNpiZdymtbHZHtkhgNFkizbb",
+                "content_owner": 3,
+                "isoffical": true,
+                "isWorldWide": false,
+                "playlist_id": "6B6AOBDD",
+                "artists": [
+                    {
+                        "name": "Chloe",
+                        "link": "/nghe-si/For-the-Night-Chloe-Latto"
+                    }
+                ],
+                "artists_names": "Chloe, Latto",
+                "performer": "Chloe, Latto",
+                "type": "audio",
+                "link": "/bai-hat/For-the-Night-Chloe-Latto/Z6WBECU9.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/2/5/f/c/25fc2defa50c169d3ef4ce827f2a09cb.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/b/3/7/1b37ed137bee49ab85827ef8c78ae386.jpg?fs=MTY2NzIwODYyMjU0OXx3ZWJWNHw",
+                "duration": 205,
+                "total": 834,
+                "rank_num": "",
+                "rank_status": "stand",
+                "position": 99,
+                "order": 99
+            },
+            {
+                "id": "ZZF8FWOD",
+                "name": "Chia Tay Là Giải Pháp",
+                "title": "Chia Tay Là Giải Pháp",
+                "code": "kmxmyZZdSWVpkGkymybmZnykXXNDZizDb",
+                "content_owner": 7,
+                "isoffical": true,
+                "isWorldWide": true,
+                "playlist_id": "6BZW0UCC",
+                "artists": [
+                    {
+                        "name": "Hương Ly",
+                        "link": "/nghe-si/Chia-Tay-La-Giai-Phap-Huong-Ly-LY-M"
+                    }
+                ],
+                "artists_names": "Hương Ly, LY.M",
+                "performer": "Hương Ly, LY.M",
+                "type": "audio",
+                "link": "/bai-hat/Chia-Tay-La-Giai-Phap-Huong-Ly-LY-M/ZZF8FWOD.html",
+                "lyric": "https://static-zmp3.zmdcdn.me/lyrics/3/f/b/4/3fb45d35e06b3ee00e1678b55012a265.lrc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/6/6/6/6/6666a578871d82ca07115a59557bee58.jpg?fs=MTY2NzIwODYyMjU0OXx3ZWJWNHw",
+                "duration": 326,
+                "total": 821,
+                "rank_num": 2,
+                "rank_status": "down",
+                "position": 100,
+                "order": 100
+            }
+        ],
+        "customied": [],
+        "peak_score": 0,
+        "songHis": {
+            "min_score": 0,
+            "max_score": 41818.5,
+            "from": 1667120400000,
+            "interval": 60000,
+            "data": {
+                "Z6WZD78I": [
+                    {
+                        "time": 1667124000000,
+                        "hour": "17",
+                        "counter": 21169
+                    },
+                    {
+                        "time": 1667127600000,
+                        "hour": "18",
+                        "counter": 21614
+                    },
+                    {
+                        "time": 1667131200000,
+                        "hour": "19",
+                        "counter": 19760
+                    },
+                    {
+                        "time": 1667134800000,
+                        "hour": "20",
+                        "counter": 17893
+                    },
+                    {
+                        "time": 1667138400000,
+                        "hour": "21",
+                        "counter": 17707
+                    },
+                    {
+                        "time": 1667142000000,
+                        "hour": "22",
+                        "counter": 19194
+                    },
+                    {
+                        "time": 1667145600000,
+                        "hour": "23",
+                        "counter": 20032
+                    },
+                    {
+                        "time": 1667149200000,
+                        "hour": "00",
+                        "counter": 19142
+                    },
+                    {
+                        "time": 1667152800000,
+                        "hour": "01",
+                        "counter": 14327
+                    },
+                    {
+                        "time": 1667156400000,
+                        "hour": "02",
+                        "counter": 10636
+                    },
+                    {
+                        "time": 1667160000000,
+                        "hour": "03",
+                        "counter": 7557
+                    },
+                    {
+                        "time": 1667163600000,
+                        "hour": "04",
+                        "counter": 6046
+                    },
+                    {
+                        "time": 1667167200000,
+                        "hour": "05",
+                        "counter": 6041
+                    },
+                    {
+                        "time": 1667170800000,
+                        "hour": "06",
+                        "counter": 9775
+                    },
+                    {
+                        "time": 1667174400000,
+                        "hour": "07",
+                        "counter": 19777
+                    },
+                    {
+                        "time": 1667178000000,
+                        "hour": "08",
+                        "counter": 24235
+                    },
+                    {
+                        "time": 1667181600000,
+                        "hour": "09",
+                        "counter": 23982
+                    },
+                    {
+                        "time": 1667185200000,
+                        "hour": "10",
+                        "counter": 23293
+                    },
+                    {
+                        "time": 1667188800000,
+                        "hour": "11",
+                        "counter": 21679
+                    },
+                    {
+                        "time": 1667192400000,
+                        "hour": "12",
+                        "counter": 19392
+                    },
+                    {
+                        "time": 1667196000000,
+                        "hour": "13",
+                        "counter": 27879
+                    },
+                    {
+                        "time": 1667199600000,
+                        "hour": "14",
+                        "counter": 24946
+                    },
+                    {
+                        "time": 1667203200000,
+                        "hour": "15",
+                        "counter": 21906
+                    },
+                    {
+                        "time": 1667206800000,
+                        "hour": "16",
+                        "counter": 20951
+                    }
+                ],
+                "Z6W9CA9D": [
+                    {
+                        "time": 1667124000000,
+                        "hour": "17",
+                        "counter": 12334
+                    },
+                    {
+                        "time": 1667127600000,
+                        "hour": "18",
+                        "counter": 11689
+                    },
+                    {
+                        "time": 1667131200000,
+                        "hour": "19",
+                        "counter": 10418
+                    },
+                    {
+                        "time": 1667134800000,
+                        "hour": "20",
+                        "counter": 9750
+                    },
+                    {
+                        "time": 1667138400000,
+                        "hour": "21",
+                        "counter": 10246
+                    },
+                    {
+                        "time": 1667142000000,
+                        "hour": "22",
+                        "counter": 10743
+                    },
+                    {
+                        "time": 1667145600000,
+                        "hour": "23",
+                        "counter": 11145
+                    },
+                    {
+                        "time": 1667149200000,
+                        "hour": "00",
+                        "counter": 10012
+                    },
+                    {
+                        "time": 1667152800000,
+                        "hour": "01",
+                        "counter": 7682
+                    },
+                    {
+                        "time": 1667156400000,
+                        "hour": "02",
+                        "counter": 5737
+                    },
+                    {
+                        "time": 1667160000000,
+                        "hour": "03",
+                        "counter": 4658
+                    },
+                    {
+                        "time": 1667163600000,
+                        "hour": "04",
+                        "counter": 3408
+                    },
+                    {
+                        "time": 1667167200000,
+                        "hour": "05",
+                        "counter": 3275
+                    },
+                    {
+                        "time": 1667170800000,
+                        "hour": "06",
+                        "counter": 5093
+                    },
+                    {
+                        "time": 1667174400000,
+                        "hour": "07",
+                        "counter": 9869
+                    },
+                    {
+                        "time": 1667178000000,
+                        "hour": "08",
+                        "counter": 12326
+                    },
+                    {
+                        "time": 1667181600000,
+                        "hour": "09",
+                        "counter": 12800
+                    },
+                    {
+                        "time": 1667185200000,
+                        "hour": "10",
+                        "counter": 13353
+                    },
+                    {
+                        "time": 1667188800000,
+                        "hour": "11",
+                        "counter": 12094
+                    },
+                    {
+                        "time": 1667192400000,
+                        "hour": "12",
+                        "counter": 11133
+                    },
+                    {
+                        "time": 1667196000000,
+                        "hour": "13",
+                        "counter": 14376
+                    },
+                    {
+                        "time": 1667199600000,
+                        "hour": "14",
+                        "counter": 15872
+                    },
+                    {
+                        "time": 1667203200000,
+                        "hour": "15",
+                        "counter": 14191
+                    },
+                    {
+                        "time": 1667206800000,
+                        "hour": "16",
+                        "counter": 13614
+                    }
+                ],
+                "Z6WOZUCE": [
+                    {
+                        "time": 1667124000000,
+                        "hour": "17",
+                        "counter": 11591
+                    },
+                    {
+                        "time": 1667127600000,
+                        "hour": "18",
+                        "counter": 11273
+                    },
+                    {
+                        "time": 1667131200000,
+                        "hour": "19",
+                        "counter": 9873
+                    },
+                    {
+                        "time": 1667134800000,
+                        "hour": "20",
+                        "counter": 9372
+                    },
+                    {
+                        "time": 1667138400000,
+                        "hour": "21",
+                        "counter": 9860
+                    },
+                    {
+                        "time": 1667142000000,
+                        "hour": "22",
+                        "counter": 10756
+                    },
+                    {
+                        "time": 1667145600000,
+                        "hour": "23",
+                        "counter": 11613
+                    },
+                    {
+                        "time": 1667149200000,
+                        "hour": "00",
+                        "counter": 10077
+                    },
+                    {
+                        "time": 1667152800000,
+                        "hour": "01",
+                        "counter": 7315
+                    },
+                    {
+                        "time": 1667156400000,
+                        "hour": "02",
+                        "counter": 4969
+                    },
+                    {
+                        "time": 1667160000000,
+                        "hour": "03",
+                        "counter": 3649
+                    },
+                    {
+                        "time": 1667163600000,
+                        "hour": "04",
+                        "counter": 3065
+                    },
+                    {
+                        "time": 1667167200000,
+                        "hour": "05",
+                        "counter": 3342
+                    },
+                    {
+                        "time": 1667170800000,
+                        "hour": "06",
+                        "counter": 5478
+                    },
+                    {
+                        "time": 1667174400000,
+                        "hour": "07",
+                        "counter": 10544
+                    },
+                    {
+                        "time": 1667178000000,
+                        "hour": "08",
+                        "counter": 12352
+                    },
+                    {
+                        "time": 1667181600000,
+                        "hour": "09",
+                        "counter": 13134
+                    },
+                    {
+                        "time": 1667185200000,
+                        "hour": "10",
+                        "counter": 14097
+                    },
+                    {
+                        "time": 1667188800000,
+                        "hour": "11",
+                        "counter": 12600
+                    },
+                    {
+                        "time": 1667192400000,
+                        "hour": "12",
+                        "counter": 12108
+                    },
+                    {
+                        "time": 1667196000000,
+                        "hour": "13",
+                        "counter": 16426
+                    },
+                    {
+                        "time": 1667199600000,
+                        "hour": "14",
+                        "counter": 15010
+                    },
+                    {
+                        "time": 1667203200000,
+                        "hour": "15",
+                        "counter": 13336
+                    },
+                    {
+                        "time": 1667206800000,
+                        "hour": "16",
+                        "counter": 13054
+                    }
+                ]
+            },
+            "score": {
+                "Z6WZD78I": {
+                    "total_score": 438933,
+                    "total_peak_score": 0,
+                    "total_score_realtime": 20030
+                },
+                "Z6W9CA9D": {
+                    "total_score": 245818,
+                    "total_peak_score": 0,
+                    "total_score_realtime": 12525
+                },
+                "Z6WOZUCE": {
+                    "total_score": 244894,
+                    "total_peak_score": 0,
+                    "total_score_realtime": 11965
+                }
+            },
+            "total_score": 44520
+        }
+    },
+    "timestamp": 1667208622555
+}
