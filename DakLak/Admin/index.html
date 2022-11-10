@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang chủ</title>
+    <!-- Font awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+        integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.2.0/css/all.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.2.0/css/sharp-solid.css">
+    <!-- Root CSS -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="base.css">
+
+    <!-- Set CSS normalize -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+
+    <!-- Font roboto -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+        rel="stylesheet">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="bs.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
+        crossorigin="anonymous"></script>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th,
+        td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #DDD;
+        }
+
+        td:hover {
+            background-color: #9bbada;
+        }
+
+        .bg-header {
+            background-color: #f8f9fa;
+        }
+
+        .table-header {
+            background-color: #498ed3 !important;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg bg-header p-0 ">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <img height="70" src="Access/img/logo_EGOVC.png" alt="">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#"></a>
+                    </li>
+                </ul>
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-primary" type="submit">Search</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+    <!-- body -->
+
+    <div class="container pt-5">
+        <div class="row">
+            <div class="col-md-6">
+                <img class="rounded-3 " style="height: 80%; width: 100%; " src="Access/img/download.png" alt="">
+                <div class=" pt-3  " style="height: 10px;">
+                    <button type="button" class="btn btn-outline-secondary ">Chọn ảnh</button>
+                    <button type="button" class="btn btn-outline-primary" >Xác nhận</button>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <table>
+                    <tr class="table-header">
+                        <th>Tên Tài Liệu</th>
+                        <th>Tải về</th>
+                        <th>Xóa</th>
+                    </tr>
+                    <tr>
+                        <td>Toán</td>
+                        <td><i class="fa-solid fa-download"></i></td>
+                        <td><i class="fa-solid fa-trash"></i></td>
+
+                    </tr>
+                    <tr>
+                        <td>Lý</td>
+                        <td><i class="fa-solid fa-download"></i></td>
+                        <td><i class="fa-solid fa-trash"></i></td>
+
+
+                    </tr>
+                    <tr>
+                        <td>Hóa</td>
+                        <td><i class="fa-solid fa-download"></i></td>
+                        <td><i class="fa-solid fa-trash"></i></td>
+
+
+                    </tr>
+                </table>
+                <div class=" pt-3">
+                    <button type="button" class="btn btn-outline-secondary">Chọn file</button>
+                    <button type="button" class="btn btn-outline-primary">Xác nhận</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+</body>
+
+</html>
